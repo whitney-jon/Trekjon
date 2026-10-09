@@ -24,5 +24,6 @@ Flag images for the bar-end chips. The render script loads `flags/<code>.png` (v
 | `fry.png` | FR Yugoslavia (1992–2003) |
 | `scg.png` | Serbia and Montenegro (2003–2006) |
 | `cs.png` | Czechoslovakia (to 1992) |
+| `wi.png` | West Indies (cricket) |
 
 A run checks every flag a video needs before rendering (`--check-flags`) and won't render with a missing flag; it reports which file to add instead.
