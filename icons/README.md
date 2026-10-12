@@ -16,3 +16,4 @@ One transparent PNG per sport theme, shown in the video header next to the title
 Guidelines: square, transparent background, at least 512×512 px, centred with a little padding. It is drawn at 128×128 px in the video. No league, team or brand logos.
 
 - `motogp.png` — official MotoGP wordmark (white, transparent). Wide logos (wider than 2.2:1) are shown stacked: logo centred above the title.
+- `premierleague.png` — Premier League trophy outline (white, transparent), uploaded by the user 12 Oct 2026. Used for the `premierleague` theme.
