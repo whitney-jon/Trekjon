@@ -9,3 +9,8 @@ Rules:
 - Missing badges: `wimbledon.png` (Wimbledon FC), `brighton-and-hove-albion.png` and `marseille.png`. The repo-root `Brighton.png` is actually the Wolves badge, and `Marseille.png` is actually Inter's current badge, so they were not copied.
 - Root files that are not images (HTML pages saved with a .png name, e.g. `Blackburn_Rovers.png`, `Middlesbrough.png`, `Portsmouth.png`, `Watford.png`, `Stoke_City.png`) were skipped.
 - To add a club: drop `<slug>.png` here, or add the badge anywhere in the repo and ask Claude to convert it.
+
+## Sport folders and raw uploads
+- `nba/` and `nhl/` hold cleaned team logos for NBA and NHL races (`--logos logos/nba`, `--logos logos/nhl`), so names like Kings, Rangers or Spurs never collide with football clubs.
+- `_uploads/` keeps the original files as uploaded; the render script never reads it. Drop new uploads anywhere and Claude will clean and file them.
+- F1 team logos and the European clubs added Oct 2026 (Benfica, Porto, Celtic, Hamburg, Feyenoord, Steaua Bucharest, Red Star Belgrade, Marseille, West Bromwich Albion) sit in this folder by slug.
