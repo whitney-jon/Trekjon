@@ -5,10 +5,10 @@ When tennis went open in 1968, Australia ruled the sport through Rod Laver, Ken 
 
 This race tracks every men's Grand Slam singles title by the champion's country, from the 1968 French Open to the 2026 US Open. Australia leads until the USA's golden era of Jimmy Connors, John McEnroe, Pete Sampras and Andre Agassi takes over in 1981. Then Sweden, Switzerland and Serbia climb through Björn Borg, Roger Federer and Novak Djokovic, and Rafael Nadal and Carlos Alcaraz carry Spain to second.
 
-For European fans: seven of the top nine are European nations, led by Spain (36), Sweden (25), Serbia (24) and Switzerland (23), with Italy rising fast through Jannik Sinner.
+For European fans: six of the top nine are European nations, led by Spain (36), Sweden (25), Serbia (24) and Switzerland (23), with Italy rising fast through Jannik Sinner.
 
 Key Highlights:
-The Aussie Start: Australia led the Open Era count from 1968 until 1980, through Laver, Rosewall and Newcombe.
+The Aussie Start: Australia led the Open Era count from 1968 until the USA passed them in 1981, through Laver, Rosewall and Newcombe.
 American Era: The USA took the lead in 1981 and has won 52 titles, with Sampras (14) the top American.
 Spain's Rise: Nadal's 2019 US Open title moved Spain past Sweden into second; Spain now has 36.
 2026 So Far: Alcaraz (Australian Open), Alexander Zverev (French Open and US Open) and Sinner (Wimbledon) shared this year's four titles.
