@@ -3,7 +3,7 @@
 ## Description
 FIFA's first world ranking, at the end of 1992, put Germany on top, with Italy and Brazil close behind. More than three decades and nine World Cups later, who has been the best team in the world?
 
-This race shows the FIFA men's world ranking top 10 at the end of every year from 1992 to 2025, finishing with the October 2026 ranking, and every World Cup win is a gold star beside the team's name. Brazil dominate the late 1990s and 2000s, Spain rule from 2008 to 2013, Belgium top the ranking for four straight years without a trophy, and Spain finish on top again as 2026 world champions.
+This race shows the FIFA men's world ranking top 10 at the end of every World Cup year and every year in between, from 1992 to 2024, finishing with the October 2026 ranking, and every World Cup win is a gold star beside the team's name. Brazil dominate the late 1990s and 2000s, Spain rule from 2008 to 2013, Belgium top the ranking for four straight years without a trophy, and Spain finish on top again as 2026 world champions.
 
 For European fans: Spain, France, England, Portugal, Belgium and the Netherlands fill six of the current top nine, and Spain's 2026 World Cup win gave them a second star.
 
@@ -25,13 +25,13 @@ Data Source: FIFA/Coca-Cola Men's World Ranking (1992–Oct 2026; historical ran
 3. "Live is Life" – Opus
 
 ## How it works
-- One time point per year: the last FIFA ranking of each year (December editions; 2015's last edition was 3 Dec), then the 7 October 2026 ranking labelled 2026.
+- One time point every two years (each World Cup year and the year between): the last FIFA ranking of 1992, 1994, … 2024 (December editions), then the 7 October 2026 ranking labelled 2026. Re-rendered 19 Oct 2026 at the user's request to make it easier to watch: half as many steps (about 2 seconds each), quick reshuffles with a longer settled table, and no overtake flashes (only the NEW #1 badge).
 - Bars show ranking position: No. 1 longest, No. 10 shortest; the label shows the rank. Teams outside the top 10 leave the chart. Ties keep FIFA's shared rank (e.g. France and Portugal both 7th in Dec 2014).
 - Stars: World Cup wins, appearing in the tournament year: Brazil 1958, 1962, 1970, 1994, 2002; Germany 1954, 1974, 1990, 2014 (FIFA credits West Germany's titles to Germany); Italy 1934, 1938, 1982, 2006; Argentina 1978, 1986, 2022; Uruguay 1930, 1950; France 1998, 2018; England 1966; Spain 2010, 2026.
 
 ## Events
 - 2002 | Brazil win a record fifth World Cup.
-- 2015 | Belgium reach No. 1 for the first time (November 2015; year-end No. 1 in Dec 2015). Source: Wikipedia FIFA Men's World Ranking (Team of the Year table).
+- 2020 | Belgium No. 1 for a third straight year (year-end No. 1 in 2018, 2019 and 2020). Source: Wikipedia FIFA Men's World Ranking (Team of the Year table).
 
 ## QA
 - 1992–2022 from the full FIFA ranking history dataset supplied by the user (footballing-nations, Zenodo), last edition of each year.
