@@ -1,0 +1,270 @@
+# year | home | away | home scorers | away scorers   (La Liga rows 1-192, then cups)
+1929|B|R|Parera (70)|Morera (10, 55)
+1929|R|B||Sastre (83)
+1930|B|R|Bestit (63)|Rubio (10, 37), F. López (17), Lazcano (71)
+1930|R|B|Rubio (5, 23), Lazcano (42, 68, 72)|Goiburu (84)
+1931|R|B||
+1931|B|R|Ramón (10, 38, 80)|Eugenio (39)
+1932|R|B|Olivares (26, 40)|
+1932|B|R|Samitier (20), Arocha (87 p.)|Lazcano (43), Regueiro (70)
+1933|B|R|Arocha (68)|Regueiro (78 p.)
+1933|R|B|Samitier (35, 68)|Goiburu (89)
+1933|B|R|Morera (46)|Olivares (9), Regueiro (26)
+1934|R|B|Valle RM (7), Samitier (20), Regueiro (30), Eugenio (50)|
+1935|R|B|Lazcano (15, 42, 73), Sañudo (21, 35, 47, 81), Regueiro (29)|Escolà (17), Guzmán (68)
+1935|B|R|Ventolrà (43, 62, 68, 82), Escolà (48)|
+1935|B|R||Regueiro (21), Diz (40), Lecue (47)
+1936|R|B|Lecue (10, 47), Emilín (43)|
+1940|R|B|Alonso (1), Lecue (75)|Pascual (3)
+1940|B|R||
+1940|B|R|Sospedra (49, 69), Valle Mas (53)|
+1941|R|B|Barinaga (49)|Bravo (60), Martín (63)
+1941|R|B|Arbiza (17, 70), Belmar (55)|Calvet (25), Raich (60 p.), Gracia (87)
+1942|B|R||Alday (63, 78)
+1942|R|B|Arbiza (7, 89), Alsúa (52)|
+1943|B|R|Martín (25, 40), Escolà (31), Valle Mas (32, 62)|Alonso (10), Alday (27, 51), Botella (74), Mardones (87)
+1944|R|B||Valle Mas (50)
+1944|B|R|Escolà (13)|Alsúa (62)
+1944|R|B|Moleiro (21)|
+1945|B|R|César (41, 46), Bravo (52), Escolà (77), Gonzalvo III (86)|
+1945|R|B|Barinaga (23), Pruden (63), Belmar (67)|Martín (51), Gonzalvo III (85)
+1946|B|R|César (17)|
+1946|R|B|Corona (4 p.), Molowny (79)|Seguer (23)
+1947|B|R|Bravo (18), Navarro (39, 49)|Arsuaga (48, 60)
+1947|R|B|Barinaga (65)|
+1948|B|R|Seguer (2), Basora (28, 58), César (43)|Gallardo (68), Rafa Yunta (76)
+1948|R|B|Barinaga (60)|Florencio (41), Basora (48)
+1949|B|R|César (28, 61), Basora (56)|Pahiño (9)
+1949|R|B|Pahiño (2, 40, 68), Cabrera (4), Macala (62, 69)|Gonzalvo II (85)
+1950|B|R|Basora (41), César (53)|Pahiño (58), Rafael Verdú (66), Cabrera (73)
+1950|B|R|Nicolau (9, 56), César (14), Aurelio (39, 88), Gonzalvo III (62), Basora (82)|Molowny (15), García González (66)
+1951|R|B|Narro (8, 17, 29), Pahiño (13)|Canal (31)
+1951|R|B|Molowny (3), Cabrera (32), Pahiño (35, 87), Olsen (57)|Basora (44)
+1952|B|R|Vila Soler (13), César (36, 56, 74)|Olsen (33), Arsuaga (39)
+1952|R|B|Arsuaga (76, 80)|Manchón (67)
+1953|B|R|Moreno (15)|
+1953|R|B|Di Stéfano (10, 85), Olsen (34, 35), Molowny (39)|
+1954|B|R|Tejada (14, 86), César (50), Moreno (74), Manchón (89)|Di Stéfano (6)
+1954|R|B|Di Stéfano (44 p.), Rial (66), Joseíto (67)|
+1955|B|R|Basora (31), Moll (70)|Gento (19, 64)
+1955|R|B|Rial (35), Marquitos (89)|Areta (77)
+1956|B|R|Villaverde (18, 29)|
+1956|B|R|Luis Suárez M (46)|
+1957|R|B|Joseíto (21)|
+1957|R|B|Kopa (10), Rial (43), Di Stéfano (73)|
+1958|B|R||Marsal (34), Rial (37)
+1958|B|R|Evaristo (22, 68, 70), Tejada (84)|
+1959|R|B|Herrera (79)|
+1959|R|B|Mateos (5), Di Stéfano (82)|
+1960|B|R|Kocsis (50), Eulogio Martínez (60), Villaverde (62)|Di Stéfano (58)
+1960|B|R|Eulogio Martínez (28), Villaverde (34), Kubala (89)|Di Stéfano (3, 81), Del Sol (15), Gento (43, 79)
+1961|R|B|Del Sol (55), Di Stéfano (60), Puskás (78)|Luis Suárez M (80), Kubala (89)
+1961|R|B|Puskás (14), Del Sol (72)|
+1962|B|R|Evaristo (4, 83), Kocsis (40)|Félix Ruiz (86)
+1962|R|B|Di Stéfano (20, 70)|
+1963|B|R|Ré (34)|Puskás (24 p., 35, 71), Di Stéfano (47), Gento (67)
+1963|R|B|Puskás (37, 68, 84 p.), Di Stéfano (77)|
+1964|B|R|Zaldúa (27)|Gento (18), Puskás (43)
+1964|R|B|Amancio (16, 31, 74), Serena (76)|Ré (68)
+1965|B|R|Ré (40)|Pirri (63), Serena (70)
+1965|R|B|Félix Ruiz (20)|Fusté (7, 8), Zaldúa (34)
+1966|B|R|Rifé (59), Zaballa (63)|Gento (39)
+1966|R|B|Veloso (89)|
+1967|B|R|Fusté (7, 89)|Amancio (42)
+1967|R|B|Gento (65 p.)|Zaldúa (78)
+1968|B|R|Zaldúa (12)|Pirri (43)
+1968|R|B|Pirri (32), José Luis (75)|Zaldúa (19)
+1969|B|R|Zaldúa (26)|Gento (87 p.)
+1969|R|B|Fleitas (18, 38), Gento (63)|Bustillo (3, 5), Rexach (71)
+1969|B|R|Gallego (29)|
+1970|R|B||Zabalza (28)
+1971|B|R||Grande (67)
+1971|R|B|Grosso (6)|Asensi (68)
+1972|B|R|Asensi (11)|
+1972|B|R|Barrios (52)|
+1973|R|B||
+1973|B|R||
+1974|R|B||Asensi (30, 54), Cruyff (39), Juan Carlos (65), Sotil (69)
+1975|R|B|Martínez RM (43)|
+1975|B|R||
+1975|B|R|Neeskens (3), Rexach (89)|Pirri (64)
+1976|R|B||Rexach (15), Heredia (64)
+1976|B|R|Marcial (29), Cruyff (53), Heredia (86)|Pirri (52)
+1977|R|B|Pirri (2 p.)|Cruyff (16)
+1977|B|R|Rexach (30, 67 p.)|Jensen (23), Santillana (35), Stielike (54)
+1978|R|B|Jensen (6, 10), Juanito (69), Santillana (80)|
+1978|R|B|Santillana (29, 46), Jensen (32)|Neeskens (15)
+1979|B|R|Krankl (52), Asensi (61)|
+1979|R|B|Santillana (6), Juanito (8), Cunningham (32)|Landáburu (23), Krankl (36)
+1980|B|R||García Hernández (61), Santillana (63)
+1980|B|R|Schuster (15), Quini (64)|Juanito (22)
+1981|R|B|Juanito (53 p.), Santillana (71), Stielike (76)|
+1981|B|R|Alexanko (7), Quini (53, 60 p.)|Juanito (49)
+1982|R|B|Rafael Cortés (6), Stielike (45 p.), Isidro (82)|Quini (42)
+1982|R|B||Esteban Vigo (14), Quini (86)
+1983|B|R|Maradona (45), Perico Alonso (77)|Juanito (20)
+1983|B|R|Quini (17 p.)|Juanito (12 p.), Santillana (20)
+1984|R|B|Juanito (16), Santillana (80)|Maradona (56)
+1984|R|B||Archibald (86), Calderé (89)
+1984|B|R|Gerardo (25), Migueli (53), Esteban Vigo (79)|Sanchís (30), Butragueño (89)
+1985|B|R|Marcos (2), Calderé (72)|
+1986|R|B|Maceda (64), Valdano (67), Butragueño (83)|Amarilla (51)
+1986|R|B|Hugo Sánchez (27 p.)|Pedraza (6)
+1987|B|R|Lineker (2, 5, 47)|Valdano (61), Hugo Sánchez (80 p.)
+1987|R|B||
+1987|B|R|Lineker (39), Roberto (60 p.)|Hugo Sánchez (53)
+1988|R|B|Hugo Sánchez (22 p., 41)|Schuster (30 p.)
+1988|B|R|Carrasco (1), Lineker (70)|
+1988|R|B|Hugo Sánchez (57), Aldana (59), Gordillo (81)|Bakero (21), Carrasco (70)
+1989|B|R||
+1989|B|R|Salinas (10), Koeman (74 p., 89 p.)|Hugo Sánchez (5 p.)
+1990|R|B|Míchel (24), Butragueño (45), Hugo Sánchez (46 p.)|Salinas (54, 57)
+1991|B|R|Laudrup (18)|Butragueño (28)
+1991|R|B|Aldana (47)|
+1991|R|B|Prosinečki (19)|Koeman (58 p.)
+1992|B|R|Koeman (36)|Hierro (66)
+1992|B|R|Bakero (4), Stoichkov (87)|Míchel (71 p.)
+1993|R|B|Zamorano (9), Míchel (41 p.)|Amor (15)
+1994|B|R|Romário (24, 56, 81), Koeman (47), Iglesias (86)|
+1994|R|B||Amor (77)
+1995|R|B|Zamorano (5, 21, 39), Luis Enrique (68), Amavisca (70)|
+1995|B|R|Nadal (62)|
+1995|R|B|Raúl (12)|Roger (31)
+1996|B|R|Kodro (36, 89), Figo (71)|
+1996|R|B|Šuker (24), Mijatović (48)|
+1997|B|R|Ronaldo Nazário (44)|
+1997|R|B|Raúl (48), Šuker (61)|Rivaldo (5), Luis Enrique (50), Giovanni (79)
+1998|B|R|Anderson (69), Figo (80), Giovanni (85)|
+1998|R|B|Raúl (7, 25)|Kluivert (12), Anderson (82)
+1999|B|R|Luis Enrique (4, 36), Rivaldo (80)|
+1999|B|R|Rivaldo (28), Figo (49)|Raúl (26, 86)
+2000|R|B|Roberto Carlos (5), Anelka (19), Morientes (52)|
+2000|B|R|Luis Enrique (26), Simão (79)|
+2001|R|B|Raúl (6, 36)|Rivaldo (35, 69)
+2001|R|B|Morientes (23), Figo (89)|
+2002|B|R|Xavi (58)|Zidane (38)
+2002|B|R||
+2003|R|B|Ronaldo Nazário (15)|Luis Enrique (31)
+2003|B|R|Kluivert (82)|Roberto Carlos (36), Ronaldo Nazário (72)
+2004|R|B|Solari (53)|Kluivert (57), Xavi (86)
+2004|B|R|Eto'o (29), Van Bronckhorst (44), Ronaldinho (77 p.)|
+2005|R|B|Zidane (7), Ronaldo Nazário (20), Raúl (45+2), Owen (65)|Eto'o (29), Ronaldinho (73)
+2005|R|B||Eto'o (14), Ronaldinho (59, 77)
+2006|B|R|Ronaldinho (22 p.)|Ronaldo Nazário (37)
+2006|R|B|Raúl (3), Van Nistelrooy (51)|
+2007|B|R|Messi (11, 28, 90+1)|Van Nistelrooy (5, 13 p.), Ramos (73)
+2007|B|R||Baptista (36)
+2008|R|B|Raúl (13), Robben (21), Higuaín (63), Van Nistelrooy (78 p.)|Henry (87)
+2008|B|R|Eto'o (83), Messi (90)|
+2009|R|B|Higuaín (14), Ramos (56)|Henry (18, 58), Puyol (20), Messi (36, 75), Piqué (83)
+2009|B|R|Ibrahimović (56)|
+2010|R|B||Messi (33), Pedro (56)
+2010|B|R|Xavi (10), Pedro (18), Villa (55, 58), Jeffrén (90+1)|
+2011|R|B|Cristiano Ronaldo (82 p.)|Messi (53 p.)
+2011|R|B|Benzema (1)|Alexis Sánchez (30), Xavi (53), Fàbregas (66)
+2012|B|R|Alexis Sánchez (71)|Khedira (17), Cristiano Ronaldo (73)
+2012|B|R|Messi (31, 61)|Cristiano Ronaldo (23, 66)
+2013|R|B|Benzema (6), Ramos (82)|Messi (18)
+2013|B|R|Neymar (19), Alexis Sánchez (78)|Jesé (90+1)
+2014|R|B|Benzema (20, 24), Cristiano Ronaldo (55 p.)|Iniesta (7), Messi (42, 65 p., 84 p.)
+2014|R|B|Cristiano Ronaldo (35 p.), Pepe (50), Benzema (61)|Neymar (4)
+2015|B|R|Mathieu (19), Luis Suárez (56)|Cristiano Ronaldo (31)
+2015|R|B||Luis Suárez (11, 74), Neymar (39), Iniesta (53)
+2016|B|R|Piqué (56)|Benzema (62), Cristiano Ronaldo (85)
+2016|B|R|Luis Suárez (53)|Ramos (90)
+2017|R|B|Casemiro (28), James Rodríguez (85)|Messi (33, 90+2), Rakitić (73)
+2017|R|B||Luis Suárez (54), Messi (64 p.), Aleix Vidal (90+3)
+2018|B|R|Luis Suárez (10), Messi (52)|Cristiano Ronaldo (14), Bale (72)
+2018|B|R|Coutinho (11), Luis Suárez (30 p., 75, 83), Arturo Vidal (87)|Marcelo (50)
+2019|R|B||Rakitić (26)
+2019|B|R||
+2020|R|B|Vinícius (71), Mariano Díaz (90+2)|
+2020|B|R|Fati (8)|Valverde (5), Ramos (63 p.), Modrić (90)
+2021|R|B|Benzema (13), Kroos (28)|Mingueza (60)
+2021|B|R|Agüero (90+7)|Alaba (32), Lucas Vázquez (90+4)
+2022|R|B||Aubameyang (29, 51), Araújo (38), Ferran Torres (47)
+2022|R|B|Benzema (12), Valverde (35), Rodrygo (90+1 p.)|Ferran Torres (83)
+2023|B|R|Sergi Roberto (45), Kessié (90+1)|
+2023|B|R|Gündoğan (6)|Bellingham (68, 90+2)
+2024|R|B|Vinícius (18 p.), Lucas Vázquez (73), Bellingham (90+1)|Christensen (6), Fermín López (69)
+2024|R|B||Lewandowski (54, 56), Lamine Yamal (77), Raphinha (84)
+2025|B|R|Eric García (19), Lamine Yamal (32), Raphinha (34, 45)|Mbappé (5 p., 14, 70)
+2025|R|B|Mbappé (22), Bellingham (43)|Fermín López (38)
+2026|B|R|Rashford (9), Ferran Torres (18)|
+# ---- Copa del Rey (year = season end / tie year)
+1916|B|R|Alcántara (39), Martínez 1916 (85)|Petit (17)
+1916|R|B|Bernabéu (35 p., 40, 60), Petit (80)|Martínez 1916 (20)
+1916|R|B|Belaunde (2, 55, 87), Bernabéu (23, 98, 118 p.)|Alcántara (15, 30, 102), Mallorquí (67), Bau (70), Martínez 1916 (112)
+1916|R|B|Bernabéu (25), Zabalo (85), Aranguren (100, 108)|Martínez 1916 (11, 38)
+1926|R|B|Monjardín (47)|Samitier (19, 26, 43, 64), Piera (79)
+1926|B|R|Piera (8), Samitier (18, 51)|
+1936|R|B|Eugenio (6), Lecue (12)|Escolà (29)
+1943|B|R|Valle Mas (34), Escolà (43 p.), Sospedra (60)|
+1943|R|B|Pruden (5, 28, 35), Barinaga (31, 43, 44, 87), Alonso (37, 74), Alsúa (39), Botella (87)|Martín (89)
+1954|R|B|Mateos (86)|
+1954|B|R|César (9, 12), Biosca (87)|Pérez Payá (72)
+1957|R|B|Di Stéfano (20 p., 35)|Kubala (14), Basora (53)
+1957|B|R|Eulogio Martínez (4, 48, 50, 63), Kubala (35), Villaverde (79)|
+1959|R|B|Puskás (20), Mateos (35)|Kocsis (51, 69), Luis Suárez M (67, 71)
+1959|B|R|Luis Suárez M (34 p., 44), Villaverde (63)|Gento (36)
+1962|R|B||Eulogio Martínez (62)
+1962|B|R|Pereda (85)|Del Sol (65), Puskás (83), Gento (90)
+1968|R|B||
+1970|R|B|Grosso (5), Amancio (44)|
+1970|B|R|Rexach (45)|Amancio (60 p.)
+1974|R|B|Santillana (5), Rubiñán (46), Aguilar (50), Pirri (83)|
+1983|B|R|Víctor (32), Marcos (89)|Santillana (50)
+1990|B|R|Amor (68), Salinas (90)|
+1993|R|B|Zamorano (40)|Bakero (30)
+1993|B|R|Laudrup (87)|Míchel (24 p.), Zamorano (82)
+1997|B|R|Ronaldo Nazário (13), Nadal (70), Giovanni (78)|Šuker (16), Hierro (67)
+1997|R|B|Šuker (80 p.)|
+2011|B|R||Cristiano Ronaldo (103)
+2012|R|B|Cristiano Ronaldo (11)|Puyol (49), Abidal (77)
+2012|B|R|Pedro (43), Dani Alves (45+3)|Cristiano Ronaldo (68), Benzema (72)
+2013|R|B|Varane (81)|Fàbregas (50)
+2013|B|R|Alba (89)|Cristiano Ronaldo (13, 57 p.), Varane (68)
+2014|R|B|Di María (11), Bale (85)|Bartra (69)
+2019|B|R|Malcom (57)|Lucas Vázquez (6)
+2019|R|B||Luis Suárez (50, 73 p.)
+2023|R|B||
+2023|B|R||Vinícius (45+1), Benzema (50, 58 p., 80)
+2025|B|R|Pedri (28), Ferran Torres (84), Koundé (116)|Mbappé (70), Tchouaméni (77)
+# ---- Copa de la Liga
+1983|R|B|Del Bosque (62), Juanito (68 p.)|Carrasco (53), Maradona (57)
+1983|B|R|Maradona (19 p.), Alexanko (25)|Santillana (80)
+1985|B|R|Clos (40), Marcos (44)|Valdano (67), Juanito (75)
+1985|R|B|Valdano (83)|Moratalla (57)
+1985|B|R|Clos (24), Archibald (50)|Pardeza (36), Cholo (52)
+1985|R|B||Amarilla (2, 41), Urbano (47), Esteban Vigo (67)
+# ---- Copa de la Coronación
+1902|R|B|Johnson (1)|Steinberg (1, 2), Gamper (1)
+# ---- Supercopa (pre-2020: played at start of season = first year; since 2020 in January)
+1988|R|B|Míchel (51), Hugo Sánchez (78)|
+1988|B|R|Bakero (37, 78)|Butragueño (15)
+1990|B|R||Míchel (55)
+1990|R|B|Butragueño (21, 44), Hugo Sánchez (56), Aragón (70)|Goikoetxea (20)
+1993|R|B|Alfonso (33, 85), Zamorano (55)|Stoichkov (15)
+1993|B|R|Bakero (65)|Zamorano (21)
+1997|B|R|Nadal (11), Giovanni (85 p.)|Raúl (5)
+1997|R|B|Raúl (42, 54), Mijatović (58), Seedorf (65)|Giovanni (80)
+2011|R|B|Özil (13), Xabi Alonso (54)|Villa (36), Messi (45)
+2011|B|R|Iniesta (15), Messi (45, 88)|Cristiano Ronaldo (20), Benzema (81)
+2012|B|R|Pedro (57), Messi (70 p.), Xavi (78)|Cristiano Ronaldo (55), Di María (85)
+2012|R|B|Higuaín (11), Cristiano Ronaldo (19)|Messi (45)
+2017|B|R|Messi (77 p.)|Cristiano Ronaldo (80), Asensio (90)
+2017|R|B|Asensio (4), Benzema (39)|
+2022|B|R|Luuk de Jong (41), Fati (83)|Vinícius (25), Benzema (72), Valverde (98)
+2023|R|B|Benzema (90+3)|Gavi (33), Lewandowski (45), Pedri (69)
+2024|R|B|Vinícius (7, 10, 39 p.), Rodrygo (64)|Lewandowski (33)
+2025|R|B|Mbappé (5), Rodrygo (60)|Lamine Yamal (22), Lewandowski (36 p.), Raphinha (39, 48), Balde (45+10)
+2026|B|R|Raphinha (36, 73), Lewandowski (45+4)|Vinícius (45+2), Gonzalo García (45+6)
+# ---- European Cup / Champions League
+1960|R|B|Di Stéfano (17, 84), Puskás (28)|Eulogio Martínez (37)
+1960|B|R|Kocsis (89)|Puskás (25, 75), Gento (68)
+1960|R|B|Mateos (3), Gento (33)|Luis Suárez M (27, 87 p.)
+1960|B|R|Vergés (33), Evaristo (82)|Canário (87)
+2002|B|R||Zidane (55), McManaman (90+2)
+2002|R|B|Raúl (43)|
+2011|R|B||Messi (77, 87)
+2011|B|R|Pedro (54)|Marcelo (64)
