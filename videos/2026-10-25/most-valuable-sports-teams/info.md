@@ -28,7 +28,7 @@ Data Source: Forbes, The World's Most Valuable Sports Teams (2010–2025), via W
 - One step per Forbes list (2010 to 2025, labelled by list year). Values are Forbes' valuations in US dollars, not cumulative.
 - Forbes has not yet published a 2026 overall list (its 2025 list came out on 19 December 2025), so the race ends at 2025.
 - The 2010–2016 lists are only available as a top 10, so a team that drops out of the top 10 in those years has no value and leaves the chart. From 2017 the top 50 is known.
-- Bars use team colours and country flags (USA, Spain, England, Germany). There are no NFL/MLB logos in our folder, so no crests are used.
+- Bars use team colours with each team's logo (logos replace the country flags). Washington's logo changes with its name: Redskins until 2019, Washington Football Team 2020–21, Commanders from 2022. Raiders use the Las Vegas Raiders logo.
 - Washington's name changes on screen: Redskins until 2019, Washington Football Team 2020–21, Commanders from 2022.
 
 ## Events
