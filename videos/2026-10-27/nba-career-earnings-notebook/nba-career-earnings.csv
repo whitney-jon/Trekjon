@@ -31,8 +31,8 @@
 # logo: Alonzo Mourning | 1997:heat | 2004:new-jersey-nets | 2005:raptors | 2008:heat
 # color: Gary Payton | 1997:#00653A/#FFC200 | 2004:#552583/#FDB927 | 2005:#007A33/#BA9653 | 2006:#98002E/#F9A01B
 # logo: Gary Payton | 1997:supersonics | 2004:lakers | 2005:celtics | 2006:heat
-# color: Dikembe Mutombo | 1997:#E03A3E/#C1D32F | 2002:#000000/#C4A36A | 2003:#002A60/#CD1041 | 2006:#CE1141/#000000
-# logo: Dikembe Mutombo | 1997:hawks | 2002:76ers-1997 | 2003:new-jersey-nets | 2006:rockets
+# color: Dikembe Mutombo | 1997:#000000/#E03A3E | 2002:#000000/#C4A36A | 2003:#002A60/#CD1041 | 2006:#CE1141/#000000
+# logo: Dikembe Mutombo | 1997:hawks-1995 | 2002:76ers-1997 | 2003:new-jersey-nets | 2006:rockets
 # color: Larry Johnson | 1997:#006BB6/#F58426
 # logo: Larry Johnson | 1997:knicks
 # color: Juwan Howard | 1997:#002B5C/#E31837 | 2002:#00538C/#B8C4CA | 2003:#0E2240/#FEC524 | 2004:#0077C0/#C4CED4 | 2005:#CE1141/#000000 | 2008:#0C2340/#78BE20 | 2010:#E03A3E/#000000 | 2011:#98002E/#F9A01B
@@ -63,8 +63,8 @@
 # logo: Kobe Bryant | 1997:lakers
 # color: Tim Duncan | 1997:#000000/#C4CED4
 # logo: Tim Duncan | 1997:spurs
-# color: Tracy McGrady | 1997:#CE1141/#000000 | 2001:#0077C0/#C4CED4 | 2005:#CE1141/#000000 | 2010:#006BB6/#F58426 | 2011:#C8102E/#1D42BA | 2012:#E03A3E/#C1D32F
-# logo: Tracy McGrady | 1997:raptors | 2001:magic | 2005:rockets | 2010:knicks | 2011:pistons | 2012:hawks
+# color: Tracy McGrady | 1997:#CE1141/#000000 | 2001:#0077C0/#C4CED4 | 2005:#CE1141/#000000 | 2010:#006BB6/#F58426 | 2011:#C8102E/#1D42BA | 2012:#000000/#E03A3E
+# logo: Tracy McGrady | 1997:raptors | 2001:magic | 2005:rockets | 2010:knicks | 2011:pistons | 2012:hawks-1995
 # color: Ray Allen | 1997:#00471B/#EEE1C6 | 2004:#00653A/#FFC200 | 2008:#007A33/#BA9653 | 2013:#98002E/#F9A01B
 # logo: Ray Allen | 1997:bucks | 2004:supersonics | 2008:celtics | 2013:heat
 # color: Jermaine O'Neal | 1997:#E03A3E/#000000 | 2001:#002D62/#FDBB30 | 2009:#98002E/#F9A01B | 2011:#007A33/#BA9653 | 2013:#1D1160/#E56020 | 2014:#1D428A/#FFC72C
