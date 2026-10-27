@@ -19,8 +19,8 @@
 # logo: Shaquille O'Neal | 1997:lakers | 2005:heat | 2008:suns | 2010:cavaliers | 2011:celtics
 # color: Horace Grant | 1997:#0077C0/#C4CED4 | 2000:#00653A/#FFC200 | 2001:#552583/#FDB927 | 2002:#0077C0/#C4CED4 | 2004:#552583/#FDB927
 # logo: Horace Grant | 1997:magic | 2000:supersonics | 2001:lakers | 2002:magic | 2004:lakers
-# color: Derrick Coleman | 1997:#006BB6/#ED174C | 1999:#00778B/#280071 | 2002:#006BB6/#ED174C | 2005:#C8102E/#1D42BA
-# logo: Derrick Coleman | 1997:76ers | 1999:hornets-1988 | 2002:76ers | 2005:pistons
+# color: Derrick Coleman | 1997:#000000/#C4A36A | 1999:#00778B/#280071 | 2002:#000000/#C4A36A | 2005:#C8102E/#1D42BA
+# logo: Derrick Coleman | 1997:76ers-1997 | 1999:hornets-1988 | 2002:76ers-1997 | 2005:pistons
 # color: Karl Malone | 1997:#002B5C/#F9A01B | 2004:#552583/#FDB927
 # logo: Karl Malone | 1997:jazz | 2004:lakers
 # color: Magic Johnson | 1997:#552583/#FDB927
@@ -31,8 +31,8 @@
 # logo: Alonzo Mourning | 1997:heat | 2004:new-jersey-nets | 2005:raptors | 2008:heat
 # color: Gary Payton | 1997:#00653A/#FFC200 | 2004:#552583/#FDB927 | 2005:#007A33/#BA9653 | 2006:#98002E/#F9A01B
 # logo: Gary Payton | 1997:supersonics | 2004:lakers | 2005:celtics | 2006:heat
-# color: Dikembe Mutombo | 1997:#E03A3E/#C1D32F | 2002:#006BB6/#ED174C | 2003:#002A60/#CD1041 | 2006:#CE1141/#000000
-# logo: Dikembe Mutombo | 1997:hawks | 2002:76ers | 2003:new-jersey-nets | 2006:rockets
+# color: Dikembe Mutombo | 1997:#E03A3E/#C1D32F | 2002:#000000/#C4A36A | 2003:#002A60/#CD1041 | 2006:#CE1141/#000000
+# logo: Dikembe Mutombo | 1997:hawks | 2002:76ers-1997 | 2003:new-jersey-nets | 2006:rockets
 # color: Larry Johnson | 1997:#006BB6/#F58426
 # logo: Larry Johnson | 1997:knicks
 # color: Juwan Howard | 1997:#002B5C/#E31837 | 2002:#00538C/#B8C4CA | 2003:#0E2240/#FEC524 | 2004:#0077C0/#C4CED4 | 2005:#CE1141/#000000 | 2008:#0C2340/#78BE20 | 2010:#E03A3E/#000000 | 2011:#98002E/#F9A01B
@@ -41,8 +41,8 @@
 # logo: Scottie Pippen | 1997:bulls | 1999:rockets | 2000:trail-blazers | 2004:bulls
 # color: Kevin Garnett | 1997:#0C2340/#78BE20 | 2008:#007A33/#BA9653 | 2014:#000000/#FFFFFF | 2015:#0C2340/#78BE20
 # logo: Kevin Garnett | 1997:timberwolves | 2008:celtics | 2014:nets | 2015:timberwolves
-# color: Chris Webber | 1997:#002B5C/#E31837 | 1999:#5A2D81/#63727A | 2006:#006BB6/#ED174C
-# logo: Chris Webber | 1997:washington-bullets | 1998:wizards | 1999:kings | 2006:76ers
+# color: Chris Webber | 1997:#002B5C/#E31837 | 1999:#5A2D81/#63727A | 2006:#000000/#C4A36A
+# logo: Chris Webber | 1997:washington-bullets | 1998:wizards | 1999:kings | 2006:76ers-1997
 # color: Anfernee Hardaway | 1997:#0077C0/#C4CED4 | 2000:#1D1160/#E56020 | 2005:#006BB6/#F58426 | 2008:#98002E/#F9A01B
 # logo: Anfernee Hardaway | 1997:magic | 2000:suns | 2005:knicks | 2008:heat
 # color: Allan Houston | 1997:#006BB6/#F58426
@@ -55,8 +55,8 @@
 # logo: Jason Kidd | 1997:suns | 2002:new-jersey-nets | 2008:mavericks | 2013:knicks
 # color: Michael Finley | 1997:#00538C/#B8C4CA | 2009:#000000/#C4CED4
 # logo: Michael Finley | 1997:mavericks | 2009:spurs
-# color: Allen Iverson | 1997:#006BB6/#ED174C | 2007:#0E2240/#FEC524 | 2009:#C8102E/#1D42BA | 2010:#006BB6/#ED174C
-# logo: Allen Iverson | 1997:76ers | 2007:nuggets | 2009:pistons | 2010:76ers
+# color: Allen Iverson | 1997:#000000/#C4A36A | 2007:#0E2240/#FEC524 | 2009:#C8102E/#1D42BA | 2010:#006BB6/#ED174C
+# logo: Allen Iverson | 1997:76ers-1997 | 2007:nuggets | 2009:pistons | 2010:76ers
 # color: Stephon Marbury | 1997:#0C2340/#78BE20 | 1999:#002A60/#CD1041 | 2002:#1D1160/#E56020 | 2005:#006BB6/#F58426
 # logo: Stephon Marbury | 1997:timberwolves | 1999:new-jersey-nets | 2002:suns | 2005:knicks
 # color: Kobe Bryant | 1997:#552583/#FDB927
@@ -73,8 +73,8 @@
 # logo: Dirk Nowitzki | 1997:mavericks
 # color: Paul Pierce | 1997:#007A33/#BA9653 | 2014:#000000/#FFFFFF | 2015:#002B5C/#E31837 | 2016:#C8102E/#1D428A
 # logo: Paul Pierce | 1997:celtics | 2014:nets | 2015:wizards | 2016:clippers
-# color: Elton Brand | 1997:#CE1141/#000000 | 2002:#C8102E/#1D428A | 2009:#006BB6/#ED174C | 2014:#E03A3E/#C1D32F | 2016:#006BB6/#ED174C
-# logo: Elton Brand | 1997:bulls | 2002:clippers | 2009:76ers | 2014:hawks | 2016:76ers
+# color: Elton Brand | 1997:#CE1141/#000000 | 2002:#C8102E/#1D428A | 2009:#000000/#C4A36A | 2010:#006BB6/#ED174C | 2014:#E03A3E/#C1D32F | 2016:#006BB6/#ED174C
+# logo: Elton Brand | 1997:bulls | 2002:clippers | 2009:76ers-1997 | 2010:76ers | 2014:hawks | 2016:76ers
 # color: Gilbert Arenas | 1997:#1D428A/#FFC72C | 2004:#002B5C/#E31837 | 2011:#0077C0/#C4CED4
 # logo: Gilbert Arenas | 1997:warriors | 2004:wizards | 2011:magic
 # color: Joe Johnson | 1997:#007A33/#BA9653 | 2003:#1D1160/#E56020 | 2006:#E03A3E/#C1D32F | 2013:#000000/#FFFFFF | 2017:#002B5C/#F9A01B | 2018:#5A2D81/#63727A | 2020:#C8102E/#1D42BA | 2022:#007A33/#BA9653
