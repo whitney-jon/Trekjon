@@ -1,0 +1,151 @@
+# season_end|player|on-field USD m|source
+# 2017 = Forbes soccer 2017 (Jun 2016-May 2017)
+2017|Cristiano Ronaldo|58|F17
+2017|Lionel Messi|53|F17
+2017|Neymar|15|F17
+2017|Gareth Bale|23|F17
+2017|Zlatan Ibrahimovic|27|F17
+2017|Wayne Rooney|17.6|F17
+2017|Luis Suarez|17.3|F17
+2017|Sergio Aguero|14.6|F17
+2017|James Rodriguez|14.9|F17
+2017|Paul Pogba|17.2|F17
+2017|Angel Di Maria|17.5|F17
+2017|Hulk|19.1|F17
+2017|Thiago Silva|18|F17
+2017|Eden Hazard|14.9|F17
+2017|Yaya Toure|15.1|F17
+2017|Cesc Fabregas|13|F17
+2017|Robin van Persie|15.8|F17
+2017|Gerard Pique|14.7|F17
+2017|Mesut Ozil|10.5|F17
+# 2018 = Forbes soccer 2018 (Jun 2017-May 2018)
+2018|Lionel Messi|84|F18
+2018|Cristiano Ronaldo|61|F18
+2018|Neymar|73|F18
+2018|Gareth Bale|28.6|F18
+2018|Paul Pogba|25|F18
+2018|Oscar|25.9|F18
+2018|Luis Suarez|19.9|F18
+2018|Wayne Rooney|22|F18
+2018|Sergio Aguero|17|F18
+2018|Angel Di Maria|20.6|F18
+2018|Kylian Mbappe|20|F18
+2018|Thiago Silva|21.4|F18
+2018|James Rodriguez|16.8|F18
+2018|Graziano Pelle|21.1|F18
+2018|Hulk|21|F18
+2018|Zlatan Ibrahimovic|15.5|F18
+2018|Gerard Pique|17.5|F18
+2018|Antoine Griezmann|16.7|F18
+2018|Yaya Toure|17.1|F18
+2018|Edinson Cavani|18|F18
+# 2019 = Forbes soccer 2019 (Jun 2018-May 2019)
+2019|Lionel Messi|92|F19
+2019|Cristiano Ronaldo|65|F19
+2019|Neymar|75|F19
+2019|Paul Pogba|29|F19
+2019|Andres Iniesta|30|F19
+2019|Alexis Sanchez|28.3|F19
+2019|Kylian Mbappe|26.6|F19
+2019|Mesut Ozil|23.7|F19
+2019|Oscar|27|F19
+2019|Antoine Griezmann|23.2|F19
+2019|Gareth Bale|20.6|F19
+2019|Mohamed Salah|16.1|F19
+2019|Angel Di Maria|21.7|F19
+2019|Luis Suarez|20.1|F19
+2019|Sergio Aguero|17.1|F19
+2019|Thiago Silva|21.5|F19
+2019|James Rodriguez|16.3|F19
+2019|Sergio Ramos|19.9|F19
+2019|Graziano Pelle|20.7|F19
+2019|Gerard Pique|17.7|F19
+# 2020 = Forbes athletes 2020 (Jun 2019-Jun 2020)
+2020|Cristiano Ronaldo|60|A20
+2020|Lionel Messi|72|A20
+2020|Neymar|70.5|A20
+2020|Mohamed Salah|23.1|A20
+2020|Kylian Mbappe|20.8|A20
+2020|Andres Iniesta|26.6|A20
+2020|Mesut Ozil|23.2|A20
+2020|Paul Pogba|23|A20
+2020|Oscar|25.8|A20
+2020|Antoine Griezmann|21.2|A20
+2020|David De Gea|22.7|A20
+2020|Alexis Sanchez|24.6|A20
+2020|Gareth Bale|19.7|A20
+2020|Sergio Ramos|18.8|A20
+# 2021 = Forbes athletes 2021 (May 2020-May 2021), else soccer 2020 list (2020-21)
+2021|Lionel Messi|97|A21
+2021|Cristiano Ronaldo|70|A21
+2021|Neymar|76|A21
+2021|Kylian Mbappe|26|A21
+2021|Mohamed Salah|22.5|A21
+2021|Paul Pogba|28.5|A21
+2021|Andres Iniesta|30|A21
+2021|Robert Lewandowski|27|A21
+2021|Antoine Griezmann|28|S20
+2021|Gareth Bale|23|S20
+2021|David De Gea|24|S20
+# 2022 = Forbes athletes 2022 (May 2021-May 2022)
+2022|Lionel Messi|75|A22
+2022|Cristiano Ronaldo|60|A22
+2022|Neymar|70|A22
+2022|Mohamed Salah|27|A22
+2022|Kylian Mbappe|28|A22
+# 2023 = Forbes athletes 2023, else soccer 2022 list (2022-23)
+2023|Cristiano Ronaldo|46|A23
+2023|Lionel Messi|65|A23
+2023|Kylian Mbappe|100|A23
+2023|Neymar|50|A23
+2023|Mohamed Salah|35|A23
+2023|Erling Haaland|40|A23
+2023|Robert Lewandowski|27|S22
+2023|Eden Hazard|27|S22
+2023|Andres Iniesta|25|S22
+2023|Kevin De Bruyne|25|S22
+# 2024 = Forbes athletes 2024, else soccer 2023 list (2023-24)
+2024|Cristiano Ronaldo|200|A24
+2024|Lionel Messi|65|A24
+2024|Kylian Mbappe|90|A24
+2024|Neymar|80|A24
+2024|Karim Benzema|100|A24
+2024|Erling Haaland|46|A24
+2024|Mohamed Salah|35|A24
+2024|Sadio Mane|48|A24
+2024|Kevin De Bruyne|35|S23
+2024|Harry Kane|26|S23
+2024|Robert Lewandowski|24|S23
+# 2025 = Forbes athletes 2025, else soccer 2024 list (2024-25)
+2025|Cristiano Ronaldo|225|A25
+2025|Lionel Messi|60|A25
+2025|Karim Benzema|100|A25
+2025|Kylian Mbappe|70|A25
+2025|Neymar|46|A25
+2025|Erling Haaland|48|A25
+2025|Vinicius Jr|40|A25
+2025|Sadio Mane|50|A25
+2025|Mohamed Salah|35|S24
+2025|Kevin De Bruyne|35|S24
+# 2026 = Forbes athletes 2026, else soccer 2025 list (2025-26)
+2026|Cristiano Ronaldo|235|A26
+2026|Lionel Messi|70|A26
+2026|Karim Benzema|100|A26
+2026|Kylian Mbappe|70|A26
+2026|Erling Haaland|60|A26
+2026|Vinicius Jr|40|A26
+2026|Mohamed Salah|35|A26
+2026|Sadio Mane|50|S25
+2026|Jude Bellingham|29|S25
+2026|Lamine Yamal|33|S25
+# Estimates where neither Forbes nor SalarySport has the player
+2017|Andres Iniesta|16.83|CAP
+2018|Andres Iniesta|18.42|CAP
+2022|Andres Iniesta|30|EST
+2017|Oscar|11.34|EST
+2021|Oscar|24.81|EST
+2022|Oscar|23.45|EST
+2023|Oscar|21.79|EST
+2024|Oscar|22.50|EST
+2025|Oscar|11.32|EST

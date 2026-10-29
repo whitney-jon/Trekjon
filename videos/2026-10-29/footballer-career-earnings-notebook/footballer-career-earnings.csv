@@ -1,0 +1,68 @@
+# topic: football soccer career salary earnings money
+# question: Which footballer has|earned the most?
+# format: $|m||1
+# event: 2018 | Messi takes No. 1 from Ronaldo
+# event: 2024 | Ronaldo's Saudi millions retake No. 1
+# color: Cristiano Ronaldo | 2017:#FEBE10/#00529F | 2019:#000000/#FFFFFF | 2022:#DA291C/#FBE122 | 2023:#FFD100/#1A3D8F
+# logo: Cristiano Ronaldo | 2017:real-madrid | 2019:juventus | 2022:manchester-united | 2023:al-nassr
+# color: Lionel Messi | 2017:#A50044/#004D98 | 2022:#004170/#DA291C | 2024:#F7B5CD/#231F20
+# logo: Lionel Messi | 2017:barcelona | 2022:paris-saint-germain | 2024:inter-miami
+# color: Ezequiel Lavezzi | 2017:#D71920/#FFFFFF
+# logo: Ezequiel Lavezzi | 2017:hebei-china-fortune
+# color: Zlatan Ibrahimovic | 2017:#DA291C/#FBE122 | 2019:#00245D/#FFD200 | 2020:#FB090B/#000000
+# logo: Zlatan Ibrahimovic | 2017:manchester-united | 2019:la-galaxy | 2020:ac-milan
+# color: Gareth Bale | 2017:#FEBE10/#00529F | 2021:#132257/#FFFFFF | 2022:#FEBE10/#00529F | 2023:#C39E6D/#000000
+# logo: Gareth Bale | 2017:real-madrid | 2021:tottenham-hotspur | 2022:real-madrid | 2023:lafc
+# color: Toni Kroos | 2017:#FEBE10/#00529F
+# logo: Toni Kroos | 2017:real-madrid
+# color: Sergio Ramos | 2017:#FEBE10/#00529F | 2022:#004170/#DA291C | 2024:#D71920/#FFFFFF | 2025:#002D5A/#FFFFFF
+# logo: Sergio Ramos | 2017:real-madrid | 2022:paris-saint-germain | 2024:sevilla | 2025:monterrey
+# color: Hulk | 2017:#D2232A/#FFFFFF | 2021:#000000/#FFFFFF
+# logo: Hulk | 2017:shanghai-port | 2021:atletico-mineiro
+# color: Karim Benzema | 2017:#FEBE10/#00529F | 2024:#FFD700/#000000 | 2026:#005BAC/#FFFFFF
+# logo: Karim Benzema | 2017:real-madrid | 2024:al-ittihad | 2026:al-hilal
+# color: Thiago Silva | 2017:#004170/#DA291C | 2021:#034694/#DBA111 | 2025:#7A0026/#00613C
+# logo: Thiago Silva | 2017:paris-saint-germain | 2021:chelsea | 2025:fluminense
+# color: Wayne Rooney | 2017:#DA291C/#FBE122 | 2018:#003399/#FFFFFF | 2019:#000000/#EF3E42 | 2020:#000000/#FFFFFF
+# logo: Wayne Rooney | 2017:manchester-united | 2018:everton | 2019:dc-united | 2020:derby-county
+# color: Angel Di Maria | 2017:#004170/#DA291C | 2023:#000000/#FFFFFF | 2024:#E83030/#FFFFFF | 2025:#003C8F/#FFD100
+# logo: Angel Di Maria | 2017:paris-saint-germain | 2023:juventus | 2024:benfica | 2025:rosario-central
+# color: Neymar | 2017:#A50044/#004D98 | 2018:#004170/#DA291C | 2024:#005BAC/#FFFFFF | 2025:#000000/#FFFFFF
+# logo: Neymar | 2017:barcelona | 2018:paris-saint-germain | 2024:al-hilal | 2025:santos
+# color: Paul Pogba | 2017:#DA291C/#FBE122 | 2023:#000000/#FFFFFF | 2026:#E7192B/#FFFFFF
+# logo: Paul Pogba | 2017:manchester-united | 2023:juventus | 2026:monaco
+# color: Andres Iniesta | 2017:#A50044/#004D98 | 2019:#8B0000/#FFFFFF
+# logo: Andres Iniesta | 2017:barcelona | 2019:vissel-kobe
+# color: Oscar | 2017:#D2232A/#FFFFFF | 2025:#FE0000/#000000
+# logo: Oscar | 2017:shanghai-port | 2025:sao-paulo
+# color: Philippe Coutinho | 2017:#C8102E/#00B2A9 | 2018:#A50044/#004D98 | 2020:#DC052D/#0066B2 | 2021:#A50044/#004D98 | 2022:#670E36/#95BFE5
+# logo: Philippe Coutinho | 2017:liverpool | 2018:barcelona | 2020:bayern-munich | 2021:barcelona | 2022:aston-villa
+# color: Luis Suarez | 2017:#A50044/#004D98 | 2021:#CB3524/#272E61 | 2023:#0D80BF/#000000 | 2024:#F7B5CD/#231F20
+# logo: Luis Suarez | 2017:barcelona | 2021:atletico-madrid | 2023:gremio | 2024:inter-miami
+# color: Eden Hazard | 2017:#034694/#DBA111 | 2020:#FEBE10/#00529F
+# logo: Eden Hazard | 2017:chelsea | 2020:real-madrid
+# color: Robert Lewandowski | 2017:#DC052D/#0066B2 | 2023:#A50044/#004D98
+# logo: Robert Lewandowski | 2017:bayern-munich | 2023:barcelona
+# color: Kylian Mbappe | 2017:#E7192B/#FFFFFF | 2018:#004170/#DA291C | 2025:#FEBE10/#00529F
+# logo: Kylian Mbappe | 2017:monaco | 2018:paris-saint-germain | 2025:real-madrid
+# color: Mohamed Salah | 2017:#8E1F2F/#F0BC42 | 2018:#C8102E/#00B2A9
+# logo: Mohamed Salah | 2017:roma | 2018:liverpool
+# color: Kevin De Bruyne | 2017:#6CABDD/#1C2C5B | 2026:#12A0D7/#003C82
+# logo: Kevin De Bruyne | 2017:manchester-city | 2026:napoli
+# color: Sadio Mane | 2017:#C8102E/#00B2A9 | 2023:#DC052D/#0066B2 | 2024:#FFD100/#1A3D8F
+# logo: Sadio Mane | 2017:liverpool | 2023:bayern-munich | 2024:al-nassr
+# color: Erling Haaland | 2017:#003B7B/#FFFFFF | 2019:#D00F31/#FFFFFF | 2020:#FDE100/#000000 | 2023:#6CABDD/#1C2C5B
+# logo: Erling Haaland | 2017:molde | 2019:rb-salzburg | 2020:borussia-dortmund | 2023:manchester-city
+# color: Manuel Neuer | 2017:#DC052D/#0066B2
+# logo: Manuel Neuer | 2017:bayern-munich
+Year,Cristiano Ronaldo,Lionel Messi,Ezequiel Lavezzi,Zlatan Ibrahimovic,Gareth Bale,Toni Kroos,Sergio Ramos,Hulk,Karim Benzema,Thiago Silva,Wayne Rooney,Angel Di Maria,Neymar,Paul Pogba,Andres Iniesta,Oscar,Philippe Coutinho,Luis Suarez,Eden Hazard,Robert Lewandowski,Kylian Mbappe,Mohamed Salah,Kevin De Bruyne,Sadio Mane,Erling Haaland,Manuel Neuer
+2017,58.000,53.000,27.255,27.000,23.000,21.844,20.392,19.100,18.082,18.000,17.600,17.500,15.000,17.200,16.830,11.340,7.259,17.300,14.900,16.366,1.320,7.061,9.899,6.599,0.004,16.366
+2018,119.000,137.000,57.173,42.500,51.600,45.876,42.813,40.100,37.981,39.400,39.600,38.100,88.000,42.200,35.250,37.240,35.355,37.200,30.524,35.494,21.320,15.469,26.014,13.606,0.008,34.373
+2019,184.000,229.000,83.966,43.981,72.200,69.101,62.713,71.673,57.234,60.900,43.235,59.800,163.000,71.200,65.250,64.240,62.216,57.300,45.604,54.007,47.920,31.569,41.497,25.723,1.355,51.809
+2020,244.000,301.000,110.305,55.840,91.900,90.788,81.513,101.157,75.186,80.359,46.249,74.083,233.500,94.200,91.850,90.040,87.310,92.157,80.461,75.694,68.720,54.669,56.567,37.517,10.069,68.058
+2021,314.000,398.000,110.305,68.945,114.900,113.845,105.200,104.030,95.790,87.718,46.249,90.552,309.500,122.700,121.850,114.850,115.762,111.849,108.983,102.694,94.720,77.169,72.685,50.131,19.950,90.133
+2022,374.000,473.000,110.305,81.056,151.441,135.091,120.633,107.006,114.822,94.293,46.249,100.103,379.500,142.770,151.850,138.300,142.061,130.051,135.351,125.463,122.720,104.169,96.216,63.973,29.085,110.618
+2023,420.000,538.000,110.305,83.061,151.441,154.514,134.730,110.327,132.240,100.307,46.249,108.123,429.500,153.421,176.850,160.090,149.893,134.374,162.351,152.463,222.720,139.169,121.216,82.644,69.085,128.224
+2024,620.000,603.000,110.305,83.061,151.441,180.716,137.219,114.519,232.240,106.596,46.249,110.808,509.500,166.326,176.850,182.590,158.736,136.011,162.351,176.463,312.720,174.169,156.216,130.644,115.085,146.565
+2025,845.000,663.000,110.305,83.061,151.441,180.716,138.903,118.828,332.240,108.818,46.249,112.492,555.500,166.326,176.850,193.910,159.881,137.695,162.351,196.393,382.720,209.169,191.216,180.644,163.085,165.418
+2026,1080.000,733.000,110.305,83.061,151.441,180.716,140.578,122.807,432.240,111.331,46.249,113.818,557.594,170.165,176.850,193.910,160.858,139.161,162.351,226.548,452.720,244.169,204.130,230.644,223.085,186.219
