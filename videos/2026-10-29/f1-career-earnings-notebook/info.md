@@ -32,6 +32,7 @@ Data Source: Spotrac F1 driver salary histories (cash totals by season, 1996–2
 - 2026 is included at Spotrac's 2026 contract values (the season is nearly over).
 - Three seasons missing from Spotrac were filled from the same contract: Hamilton 2014 $27.5m (his 2013 figure), Button 2011 $12m (his 2010 figure), Alonso 2006 $7m (his 2005 figure).
 - Bars follow the driver's team each season; retired drivers keep their last team. Verstappen's 2015 season is shown as Toro Rosso.
+- Bar colours follow each team's livery of the time: McLaren chrome silver to 2014, graphite 2015–16, papaya from 2017; Mercedes silver, with the black cars of 2020–21 and 2023–25; Renault blue/yellow 2005–06, yellow 2007–08, orange 2009; Lotus Renault GP and Lotus F1 black and gold; Williams navy to 2008, white 2009–20 (Martini 2014–18), navy from 2021; Honda white 2006 then the 'earth' car 2007–08; Brawn white and fluoro. Retired drivers keep the colours of their last season.
 - Toyota and Force India bars use the teams' white liveries so their logos stay visible.
 
 ## Events

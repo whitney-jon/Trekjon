@@ -11,6 +11,20 @@ TM = {'ferrari':('ferrari','#DC0000/#FFEB00'),'mclaren':('mclaren','#FF8000/#47C
  'alfa':('alfa-romeo','#981E32/#FFFFFF'),'kick_sauber':('sauber','#52E252/#000000'),'aston_martin_logo':('aston-martin','#00665E/#CEDC00'),
  'alpine-f1':('alpine','#0093CC/#FF87BC'),'forceindia':('force-india','#FFFFFF/#FF7F00'),'racingpoint1':('racing-point','#F596C8/#0A2240'),
  'alphatauri':('alphatauri','#2B4562/#FFFFFF'),'haas':('haas','#B6BABD/#DA291C'),'cad_2026':('cadillac','#C0C0C0/#000000')}
+# livery colours of the time: team -> [(first season, face/edge), ...]
+ERA = {
+ 'mclaren': [(1990,'#BFC3C8/#E10600'), (2015,'#3A3A3E/#E10600'), (2017,'#FF8000/#47C7FC')],   # chrome silver (West/Vodafone), graphite 2015-16, papaya 2017+
+ 'mercedes': [(2010,'#BFC3C8/#00D2BE'), (2020,'#2A2A2E/#00D2BE'), (2022,'#BFC3C8/#00D2BE'), (2023,'#2A2A2E/#00D2BE'), (2026,'#BFC3C8/#00D2BE')],  # silver arrows; black 2020-21 and 2023-25
+ 'renault3': [(2005,'#1E64C8/#FFD800'), (2007,'#FFD800/#1E64C8'), (2009,'#FF6A00/#FFD800')],   # blue/yellow 2005-06, yellow 2007-08, ING orange 2009
+ 'renault2': [(2011,'#1A1A1A/#C8A84B')],                        # Lotus Renault GP black and gold
+ 'williams1': [(2005,'#0B2D6B/#FFFFFF'), (2009,'#F2F2F2/#0B2D6B'), (2014,'#F2F2F2/#00A0DE'), (2021,'#0B2D6B/#00A0DE')],  # navy, white, Martini white, navy
+ 'honda': [(2006,'#F2F2F2/#CC0000'), (2007,'#2A5DB0/#3FA34D')],  # white 2006, 'earth' livery 2007-08
+ 'lotus': [(2012,'#1A1A1A/#C8A84B')],                           # Lotus F1 black and gold
+}
+def era_col(tm, Y):
+    if tm not in ERA: return TM[tm][1]
+    c_ = [c for y0, c in ERA[tm] if y0 <= Y]
+    return c_[-1] if c_ else ERA[tm][0][1]   # seasons before the driver's first one show his first livery
 S,T=load(); YEARS=list(range(START,END+1))
 cum={n:[sum(v for y,v in S[n].items() if y<=Y) for Y in YEARS] for n in S}
 rank=[sorted(S,key=lambda n:-cum[n][i]) for i in range(len(YEARS))]
@@ -25,7 +39,7 @@ out+=['# event: '+e for e in sys.argv[1:]]
 for n in names:
     segs,lsegs,lc,ll=[],[],None,None
     for Y in YEARS:
-        sl,col=TM[team(n,Y)]
+        sl=TM[team(n,Y)][0]; col=era_col(team(n,Y),min(Y,max(T[n])))   # retired drivers keep their last livery
         if col!=lc: segs.append(f'{Y}:{col}'); lc=col
         if sl!=ll: lsegs.append(f'{Y}:{sl}'); ll=sl
     out.append(f'# color: {n} | '+' | '.join(segs)); out.append(f'# logo: {n} | '+' | '.join(lsegs))
