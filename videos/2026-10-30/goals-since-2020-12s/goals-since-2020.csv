@@ -1,0 +1,33 @@
+# topic: football goals since 2020 haaland mbappe kane salah
+# question: Who has scored the|most goals since 2020?
+# trophy-mode: group
+# label: 2020 | Aug 2020
+# label: 2021 | 2020-21
+# label: 2022 | 2021-22
+# label: 2023 | 2022-23
+# label: 2024 | 2023-24
+# label: 2025 | 2024-25
+# label: 2026 | 2025-26
+# label: 2027 | Now
+# event: 2027 | Kane wins the Ballon d'Or | Harry Kane
+# color: Kylian Mbappe | 2020:#004170/#DA291C | 2025:#FEBE10/#00529F
+# logo: Kylian Mbappe | 2020:paris-saint-germain | 2025:real-madrid
+# trophy: Kylian Mbappe | 2021:G | 2022:G | 2023:GG | 2024:G | 2025:GG | 2026:GG
+# color: Erling Haaland | 2020:#FDE100/#000000 | 2023:#6CABDD/#1C2C5B
+# logo: Erling Haaland | 2020:borussia-dortmund | 2023:manchester-city
+# trophy: Erling Haaland | 2023:GG | 2024:G | 2026:G
+# color: Harry Kane | 2020:#132257/#FFFFFF | 2024:#DC052D/#0066B2
+# logo: Harry Kane | 2020:tottenham-hotspur | 2024:bayern-munich
+# trophy: Harry Kane | 2021:G | 2024:GGG | 2025:G | 2026:GG | 2027:B
+# color: Mohamed Salah | 2020:#C8102E/#00B2A9 | 2027:#6CB4E4/#8B0A3D
+# logo: Mohamed Salah | 2020:liverpool | 2027:trabzonspor
+# trophy: Mohamed Salah | 2022:G | 2025:G
+Year,Kylian Mbappe,Erling Haaland,Harry Kane,Mohamed Salah
+2020,0,0,0,0
+2021,46,48,39,33
+2022,95,90,78,66
+2023,149,146,118,100
+2024,201,191,170,131
+2025,247,236,218,168
+2026,305,294,291,188
+2027,320,310,307,198
