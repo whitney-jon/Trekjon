@@ -3,7 +3,7 @@ sys.path.insert(0, '/home/claude/work/trophies')
 from data import WINS, TOTAL
 from collections import Counter
 COL = {'Liverpool':'#C8102E/#F6EB61','Manchester United':'#DA291C/#FBE122','Arsenal':'#EF0107/#FFFFFF','Manchester City':'#6CABDD/#1C2C5B',
- 'Chelsea':'#034694/#DBA111','Tottenham Hotspur':'#132257/#FFFFFF','Aston Villa':'#670E36/#95BFE5','Everton':'#003399/#FFFFFF',
+ 'Chelsea':'#034694/#DBA111','Tottenham Hotspur':'#132257/#FFFFFF','Aston Villa':'#670E36/#95BFE5','Everton':'#FFFFFF/#003399',
  'Newcastle United':'#241F20/#FFFFFF','Nottingham Forest':'#DD0000/#FFFFFF','Wolverhampton Wanderers':'#FDB913/#231F20',
  'Blackburn Rovers':'#009EE0/#FFFFFF','Sunderland':'#EB172B/#FFFFFF','Sheffield Wednesday':'#4466AA/#FFFFFF','Leeds United':'#FFFFFF/#1D428A',
  'West Bromwich Albion':'#122F67/#FFFFFF'}

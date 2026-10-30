@@ -28,6 +28,7 @@ Data Source: Wikipedia, List of football clubs in England by competitive honours
 - Counts every competitive trophy in Wikipedia's honours list: league titles, FA Cup, League Cup, Community Shield (incl. Charity Shield; shared shields count for both clubs), European Cup/Champions League, UEFA Cup/Europa League, Conference League, Cup Winners' Cup, UEFA Super Cup, Club World Cup/Intercontinental Cup, Inter-Cities Fairs Cup, and the "other" honours Wikipedia counts (Full Members' Cup, Football League Super Cup, Centenary Trophy, Anglo-Italian League Cup, Intertoto Cup, Sheriff of London Charity Shield).
 - Years are calendar years: a trophy counts in the year it was won (Community Shields and Super Cups in August, Club World Cups when played). 2026 includes Arsenal's league title and Community Shield, Man City's FA Cup and League Cup, and Aston Villa's Europa League.
 - 1991 totals = each club's all-time total minus its trophies from 1992 onwards.
+- Everton's bar is white with a blue edge so the blue crest stays visible.
 - Icons: League (Premier League trophy), FA Cup, League Cup, Shield, Europe (Champions League icon, also used for the Super Cup), Europa (Europa League icon, also used for the Conference League, Cup Winners' Cup and Intertoto Cup), World (Club World Cup). The FA Cup and League Cup icons are simple drawn silhouettes in the same style as the uploaded icons.
 
 ## Events
