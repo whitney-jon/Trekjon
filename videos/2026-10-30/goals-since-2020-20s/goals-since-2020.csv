@@ -1,0 +1,21 @@
+# topic: football goals since 2020 haaland mbappe kane salah
+# question: Who has scored the|most goals since 2020?
+# label: 2020 | Aug 2020
+# label: 2021 | 2020-21
+# label: 2022 | 2021-22
+# label: 2023 | 2022-23
+# label: 2024 | 2023-24
+# label: 2025 | 2024-25
+# label: 2026 | 2025-26
+# label: 2027 | Now
+# event: 2023 | Haaland scores 52 in his first City season | Erling Haaland
+# event: 2026 | Kane hits 61 goals for Bayern | Harry Kane
+Year,Kylian Mbappe #FR,Erling Haaland #NO,Harry Kane #GB-ENG,Mohamed Salah #EG
+2020,0,0,0,0
+2021,42,41,33,31
+2022,81,70,60,62
+2023,122,122,92,92
+2024,166,160,136,117
+2025,210,194,177,151
+2026,252,232,238,163
+2027,266,245,248,173
