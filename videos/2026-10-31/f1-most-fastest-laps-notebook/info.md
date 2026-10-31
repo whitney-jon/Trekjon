@@ -1,6 +1,6 @@
 # Who has the most fastest laps in F1 history?
 
-Style: **F1 Dark Notebook** (`pl_notebook_style.py`, `NB_PRESET=f1dark`, `--theme f1 --icon icons/f1-logo.png`, `--seconds 45`). It runs 42.6 s for 27 seasons, about 1.6 s per season, following the new slower pacing benchmark. Bars take the colours of each driver's team in that season. Team logos and country flags sit on the bars, and a logo appears only where the repo has one for that team (no Maserati, March, Ligier, Kurtis Kraft and similar). Retired drivers keep the team they set most of their fastest laps with. Event cards sit in the centred position above the year.
+Style: **F1 Dark Notebook** (`pl_notebook_style.py`, `NB_PRESET=f1dark`, `--theme f1 --icon icons/f1-logo.png`, `--seconds 45`). It runs 42.6 s for 27 seasons, about 1.6 s per season, following the new slower pacing benchmark. Bars take the colours of each driver's team in that season. Team logos sit on the bars (no flags), and a logo appears only where the repo has one for that team (no Maserati, March, Ligier, Kurtis Kraft and similar). Retired drivers keep the team they set most of their fastest laps with. Event cards sit in the centred position above the year.
 
 ## Description
 In 2000 Michael Schumacher drew level with Alain Prost's all-time record of 41 fastest laps. A year later it was his, and nobody has caught him since. Who has the most fastest laps in F1 history?
