@@ -1,0 +1,66 @@
+# topic: f1 formula one career fastest laps
+# question: Who has the most|F1 fastest laps?
+# event: 2001 | Schumacher breaks Prost's record | Michael Schumacher
+# event: 2019 | Hamilton passes Räikkönen for No. 2 | Lewis Hamilton
+# color: Alain Prost | 2000:#F4F4F4/#E4002B
+# logo: Alain Prost | 2000:mclaren
+# color: Michael Schumacher | 2000:#DC0000 | 2010:#C6CACD/#00D2BE | 2013:#DC0000
+# logo: Michael Schumacher | 2000:ferrari | 2010:mercedes | 2013:ferrari
+# color: Nigel Mansell | 2000:#13235E/#FFFFFF
+# logo: Nigel Mansell | 2000:williams
+# color: Jim Clark | 2000:#C8102E/#F2D16B
+# logo: Jim Clark | 2000:lotus
+# color: Niki Lauda | 2000:#DC0000
+# logo: Niki Lauda | 2000:ferrari
+# color: Juan Manuel Fangio | 2000:#B3001B/#F4F4F4
+# logo: Juan Manuel Fangio | 2000:alfa-romeo
+# color: Nelson Piquet | 2000:#2E5EAA/#FFFFFF
+# logo: Nelson Piquet | 2000:brabham
+# color: Mika Häkkinen | 2000:#A9AFB5
+# logo: Mika Häkkinen | 2000:mclaren
+# color: Gerhard Berger | 2000:#DC0000
+# logo: Gerhard Berger | 2000:ferrari
+# color: Ayrton Senna | 2000:#F4F4F4/#E4002B
+# logo: Ayrton Senna | 2000:mclaren
+# color: Stirling Moss | 2000:#8E1B2C/#FFFFFF
+# logo: Stirling Moss | 2000:none
+# color: Damon Hill | 2000:#C8102E
+# logo: Damon Hill | 2000:williams
+# color: Kimi Räikkönen | 2000:#0B5FA5 | 2002:#A9AFB5 | 2007:#DC0000 | 2012:#111111/#C8A951 | 2014:#DC0000 | 2019:#9B0000 | 2022:#DC0000
+# logo: Kimi Räikkönen | 2000:sauber | 2002:mclaren | 2007:ferrari | 2012:lotus | 2014:ferrari | 2019:alfa-romeo | 2022:ferrari
+# color: Sebastian Vettel | 2000:#2B3F7A | 2009:#1E3A8A/#E30613 | 2015:#DC0000 | 2021:#006F62 | 2023:#1E3A8A/#E30613
+# logo: Sebastian Vettel | 2000:toro-rosso | 2009:red-bull | 2015:ferrari | 2021:aston-martin | 2023:red-bull
+# color: Fernando Alonso | 2000:#111111 | 2002:#F5C400/#1E3D9F | 2007:#A9AFB5 | 2008:#F28C1E | 2010:#DC0000 | 2015:#2E2E2E | 2017:#FF8000 | 2019:#F28C1E | 2021:#0090FF | 2023:#006F62
+# logo: Fernando Alonso | 2000:none | 2002:renault | 2007:mclaren | 2008:renault | 2010:ferrari | 2015:mclaren | 2019:renault | 2021:alpine | 2023:aston-martin
+# color: Lewis Hamilton | 2000:#A9AFB5 | 2013:#C6CACD/#00D2BE | 2020:#1A1A1A/#00D2BE | 2022:#9EA4A8/#00D2BE | 2025:#DC0000
+# logo: Lewis Hamilton | 2000:mclaren | 2013:mercedes | 2025:ferrari
+# color: Max Verstappen | 2000:#2B3F7A | 2016:#1E3A8A/#E30613
+# logo: Max Verstappen | 2000:toro-rosso | 2016:red-bull
+Year,Alain Prost #fr,Michael Schumacher #de,Nigel Mansell #gb,Jim Clark #gb,Niki Lauda #at,Juan Manuel Fangio #ar,Nelson Piquet #br,Mika Häkkinen #fi,Gerhard Berger #at,Ayrton Senna #br,Stirling Moss #gb,Damon Hill #gb,Kimi Räikkönen #fi,Sebastian Vettel #de,Fernando Alonso #es,Lewis Hamilton #gb,Max Verstappen #nl
+2000,41,41,30,28,24,23,23,22,21,19,19,19,0,0,0,0,0
+2001,41,44,30,28,24,23,23,25,21,19,19,19,0,0,0,0,0
+2002,41,51,30,28,24,23,23,25,21,19,19,19,1,0,0,0,0
+2003,41,56,30,28,24,23,23,25,21,19,19,19,4,0,1,0,0
+2004,41,66,30,28,24,23,23,25,21,19,19,19,6,0,1,0,0
+2005,41,69,30,28,24,23,23,25,21,19,19,19,16,0,3,0,0
+2006,41,76,30,28,24,23,23,25,21,19,19,19,19,0,8,0,0
+2007,41,76,30,28,24,23,23,25,21,19,19,19,25,0,11,2,0
+2008,41,76,30,28,24,23,23,25,21,19,19,19,35,0,11,3,0
+2009,41,76,30,28,24,23,23,25,21,19,19,19,35,3,13,3,0
+2010,41,76,30,28,24,23,23,25,21,19,19,19,35,6,18,8,0
+2011,41,76,30,28,24,23,23,25,21,19,19,19,35,9,19,11,0
+2012,41,77,30,28,24,23,23,25,21,19,19,19,37,15,19,12,0
+2013,41,77,30,28,24,23,23,25,21,19,19,19,39,22,21,13,0
+2014,41,77,30,28,24,23,23,25,21,19,19,19,40,24,21,20,0
+2015,41,77,30,28,24,23,23,25,21,19,19,19,42,25,21,28,0
+2016,41,77,30,28,24,23,23,25,21,19,19,19,43,28,22,31,1
+2017,41,77,30,28,24,23,23,25,21,19,19,19,45,33,23,38,2
+2018,41,77,30,28,24,23,23,25,21,19,19,19,46,36,23,41,4
+2019,41,77,30,28,24,23,23,25,21,19,19,19,46,38,23,47,7
+2020,41,77,30,28,24,23,23,25,21,19,19,19,46,38,23,53,10
+2021,41,77,30,28,24,23,23,25,21,19,19,19,46,38,23,59,16
+2022,41,77,30,28,24,23,23,25,21,19,19,19,46,38,23,61,21
+2023,41,77,30,28,24,23,23,25,21,19,19,19,46,38,24,65,30
+2024,41,77,30,28,24,23,23,25,21,19,19,19,46,38,26,67,33
+2025,41,77,30,28,24,23,23,25,21,19,19,19,46,38,26,68,36
+2026,41,77,30,28,24,23,23,25,21,19,19,19,46,38,26,69,38

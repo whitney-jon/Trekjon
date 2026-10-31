@@ -1,0 +1,149 @@
+# topic: football fifa ea sports fc player ratings
+# question: Who is the best player|in FIFA history?
+# offset: 83
+# snap-labels
+# format: ||
+# event: 2017 | Ronaldo takes No. 1 from Messi | Cristiano Ronaldo
+# event: 2024 | Mbappé is the new No. 1 | Kylian Mbappé
+# color: Lionel Messi | 2010:#DDB859/#7A5A17
+# logo: Lionel Messi | 2010:barcelona | 2022:paris-saint-germain | 2024:inter-miami
+# color: Iker Casillas | 2010:#DDB859/#7A5A17
+# logo: Iker Casillas | 2010:real-madrid
+# color: Cristiano Ronaldo | 2010:#DDB859/#7A5A17
+# logo: Cristiano Ronaldo | 2010:real-madrid | 2019:juventus | 2022:manchester-united
+# color: Júlio César | 2010:#DDB859/#7A5A17
+# logo: Júlio César | 2010:inter-milan
+# color: Kaká | 2010:#DDB859/#7A5A17
+# logo: Kaká | 2010:real-madrid
+# color: Zlatan Ibrahimović | 2010:#DDB859/#7A5A17
+# logo: Zlatan Ibrahimović | 2010:barcelona | 2014:paris-saint-germain | 2017:manchester-united
+# color: Carles Puyol | 2010:#DDB859/#7A5A17
+# logo: Carles Puyol | 2010:barcelona
+# color: Gianluigi Buffon | 2010:#DDB859/#7A5A17
+# logo: Gianluigi Buffon | 2010:juventus
+# color: Franck Ribéry | 2010:#DDB859/#7A5A17
+# logo: Franck Ribéry | 2010:bayern-munich
+# color: Nemanja Vidić | 2010:#DDB859/#7A5A17
+# logo: Nemanja Vidić | 2010:manchester-united
+# color: David Villa | 2010:#DDB859/#7A5A17
+# logo: David Villa | 2011:barcelona
+# color: Wayne Rooney | 2010:#DDB859/#7A5A17
+# logo: Wayne Rooney | 2011:manchester-united
+# color: Didier Drogba | 2010:#DDB859/#7A5A17
+# logo: Didier Drogba | 2011:chelsea
+# color: Diego Forlán | 2010:#DDB859/#7A5A17
+# logo: Diego Forlán | 2011:atletico-madrid
+# color: Xavi | 2010:#DDB859/#7A5A17
+# logo: Xavi | 2011:barcelona
+# color: Arjen Robben | 2010:#DDB859/#7A5A17
+# logo: Arjen Robben | 2011:bayern-munich
+# color: Frank Lampard | 2010:#DDB859/#7A5A17
+# logo: Frank Lampard | 2011:chelsea
+# color: Andrés Iniesta | 2010:#DDB859/#7A5A17
+# logo: Andrés Iniesta | 2012:barcelona
+# color: Wesley Sneijder | 2010:#DDB859/#7A5A17
+# logo: Wesley Sneijder | 2012:inter-milan
+# color: Gerard Piqué | 2010:#DDB859/#7A5A17
+# logo: Gerard Piqué | 2012:barcelona
+# color: Radamel Falcao | 2010:#DDB859/#7A5A17
+# logo: Radamel Falcao | 2013:atletico-madrid | 2014:monaco
+# color: Robin van Persie | 2010:#DDB859/#7A5A17
+# logo: Robin van Persie | 2013:manchester-united
+# color: Sergio Agüero | 2010:#DDB859/#7A5A17
+# logo: Sergio Agüero | 2014:manchester-city
+# color: Bastian Schweinsteiger | 2010:#DDB859/#7A5A17
+# logo: Bastian Schweinsteiger | 2014:bayern-munich
+# color: Luis Suárez | 2010:#DDB859/#7A5A17
+# logo: Luis Suárez | 2015:barcelona
+# color: Eden Hazard | 2010:#DDB859/#7A5A17
+# logo: Eden Hazard | 2015:chelsea | 2020:real-madrid
+# color: Philipp Lahm | 2010:#DDB859/#7A5A17
+# logo: Philipp Lahm | 2015:bayern-munich
+# color: Neymar | 2010:#DDB859/#7A5A17
+# logo: Neymar | 2016:barcelona | 2018:paris-saint-germain
+# color: David Silva | 2010:#DDB859/#7A5A17
+# logo: David Silva | 2016:manchester-city
+# color: Thiago Silva | 2010:#DDB859/#7A5A17
+# logo: Thiago Silva | 2016:paris-saint-germain
+# color: Manuel Neuer | 2010:#DDB859/#7A5A17
+# logo: Manuel Neuer | 2017:bayern-munich
+# color: Gareth Bale | 2010:#DDB859/#7A5A17
+# logo: Gareth Bale | 2017:real-madrid
+# color: Jérôme Boateng | 2010:#DDB859/#7A5A17
+# logo: Jérôme Boateng | 2017:bayern-munich
+# color: Robert Lewandowski | 2010:#DDB859/#7A5A17
+# logo: Robert Lewandowski | 2017:bayern-munich | 2023:barcelona
+# color: David de Gea | 2010:#DDB859/#7A5A17
+# logo: David de Gea | 2017:manchester-united
+# color: Sergio Ramos | 2010:#DDB859/#7A5A17
+# logo: Sergio Ramos | 2018:real-madrid
+# color: Toni Kroos | 2010:#DDB859/#7A5A17
+# logo: Toni Kroos | 2018:real-madrid
+# color: Gonzalo Higuaín | 2010:#DDB859/#7A5A17
+# logo: Gonzalo Higuaín | 2018:juventus
+# color: Luka Modrić | 2010:#DDB859/#7A5A17
+# logo: Luka Modrić | 2019:real-madrid
+# color: Kevin De Bruyne | 2010:#DDB859/#7A5A17
+# logo: Kevin De Bruyne | 2019:manchester-city
+# color: Jan Oblak | 2010:#DDB859/#7A5A17
+# logo: Jan Oblak | 2020:atletico-madrid
+# color: Virgil van Dijk | 2010:#DDB859/#7A5A17
+# logo: Virgil van Dijk | 2020:liverpool
+# color: Mohamed Salah | 2010:#DDB859/#7A5A17
+# logo: Mohamed Salah | 2020:liverpool
+# color: Marc-André ter Stegen | 2010:#DDB859/#7A5A17
+# logo: Marc-André ter Stegen | 2020:barcelona
+# color: Kylian Mbappé | 2010:#DDB859/#7A5A17
+# logo: Kylian Mbappé | 2021:paris-saint-germain | 2025:real-madrid
+# color: Sadio Mané | 2010:#DDB859/#7A5A17
+# logo: Sadio Mané | 2021:liverpool
+# color: Harry Kane | 2010:#DDB859/#7A5A17
+# logo: Harry Kane | 2022:tottenham-hotspur | 2024:bayern-munich
+# color: N'Golo Kanté | 2010:#DDB859/#7A5A17
+# logo: N'Golo Kanté | 2022:chelsea
+# color: Karim Benzema | 2010:#DDB859/#7A5A17
+# logo: Karim Benzema | 2023:real-madrid | 2024:al-ittihad
+# color: Thibaut Courtois | 2010:#DDB859/#7A5A17
+# logo: Thibaut Courtois | 2023:real-madrid
+# color: Erling Haaland | 2010:#DDB859/#7A5A17
+# logo: Erling Haaland | 2024:manchester-city
+# color: Rúben Dias | 2010:#DDB859/#7A5A17
+# logo: Rúben Dias | 2024:manchester-city
+# color: Rodri | 2010:#DDB859/#7A5A17
+# logo: Rodri | 2025:manchester-city
+# color: Jude Bellingham | 2010:#DDB859/#7A5A17
+# logo: Jude Bellingham | 2025:real-madrid
+# color: Vinícius Júnior | 2010:#DDB859/#7A5A17
+# logo: Vinícius Júnior | 2025:real-madrid
+# color: Martin Ødegaard | 2010:#DDB859/#7A5A17
+# logo: Martin Ødegaard | 2025:arsenal
+# color: Gianluigi Donnarumma | 2010:#DDB859/#7A5A17
+# logo: Gianluigi Donnarumma | 2025:paris-saint-germain
+# color: Alisson | 2010:#DDB859/#7A5A17
+# logo: Alisson | 2025:liverpool
+# color: Ousmane Dembélé | 2010:#DDB859/#7A5A17
+# logo: Ousmane Dembélé | 2026:paris-saint-germain
+# color: Raphinha | 2010:#DDB859/#7A5A17
+# logo: Raphinha | 2026:barcelona
+# color: Lamine Yamal | 2010:#DDB859/#7A5A17
+# logo: Lamine Yamal | 2026:barcelona
+# color: Achraf Hakimi | 2010:#DDB859/#7A5A17
+# logo: Achraf Hakimi | 2026:paris-saint-germain
+Year,Lionel Messi #ar,Iker Casillas #es,Cristiano Ronaldo #pt,Júlio César #br,Kaká #br,Zlatan Ibrahimović #se,Carles Puyol #es,Gianluigi Buffon #it,Franck Ribéry #fr,Nemanja Vidić #rs,David Villa #es,Wayne Rooney #gb-eng,Didier Drogba #ci,Diego Forlán #uy,Xavi #es,Arjen Robben #nl,Frank Lampard #gb-eng,Andrés Iniesta #es,Wesley Sneijder #nl,Gerard Piqué #es,Radamel Falcao #co,Robin van Persie #nl,Sergio Agüero #ar,Bastian Schweinsteiger #de,Luis Suárez #uy,Eden Hazard #be,Philipp Lahm #de,Neymar #br,David Silva #es,Thiago Silva #br,Manuel Neuer #de,Gareth Bale #gb-wls,Jérôme Boateng #de,Robert Lewandowski #pl,David de Gea #es,Sergio Ramos #es,Toni Kroos #de,Gonzalo Higuaín #ar,Luka Modrić #hr,Kevin De Bruyne #be,Jan Oblak #si,Virgil van Dijk #nl,Mohamed Salah #eg,Marc-André ter Stegen #de,Kylian Mbappé #fr,Sadio Mané #sn,Harry Kane #gb-eng,N'Golo Kanté #fr,Karim Benzema #fr,Thibaut Courtois #be,Erling Haaland #no,Rúben Dias #pt,Rodri #es,Jude Bellingham #gb-eng,Vinícius Júnior #br,Martin Ødegaard #no,Gianluigi Donnarumma #it,Alisson #br,Ousmane Dembélé #fr,Raphinha #br,Lamine Yamal #es,Achraf Hakimi #ma
+2010,90.0,89.98,88.96,88.94,87.92,87.9,87.88,87.86,87.84,87.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,90.0,88.98,88.96,0,0,0,0,0,0,0,87.94,87.92,87.9,86.88,86.86,86.84,86.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,94.0,88.88,91.96,0,0,0,0,0,0,88.86,0,89.9,0,0,91.98,89.92,0,90.94,87.84,87.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,94.0,88.86,91.98,0,0,0,0,0,89.92,88.9,0,88.88,0,0,89.96,0,0,89.94,0,0,87.84,87.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,94.0,0,91.98,0,0,88.92,0,0,89.94,0,0,0,0,0,88.9,0,0,88.86,0,0,89.96,88.88,87.84,87.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,93.0,0,91.98,0,0,89.94,0,0,87.86,0,0,0,0,0,0,89.96,0,88.92,0,0,0,0,0,87.88,88.9,87.84,86.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,94.0,0,92.98,0,0,88.9,0,0,0,0,0,0,0,0,0,89.94,0,87.82,0,0,0,0,0,0,89.96,88.92,0,87.88,87.86,87.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,92.98,0,94.0,0,0,89.88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91.94,0,0,91.96,0,0,91.92,89.9,89.86,89.84,89.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,92.98,0,94.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91.94,89.86,0,91.96,0,0,91.92,0,0,90.9,0,89.88,89.84,89.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,94.0,0,93.98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90.86,90.9,0,91.96,0,0,0,0,0,0,90.84,90.88,89.82,0,90.94,90.92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,94.0,0,92.98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90.94,0,91.96,0,0,89.8,0,0,0,0,0,0,0,89.84,90.92,90.9,89.88,89.86,89.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,93.0,0,91.98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90.92,0,0,0,0,0,90.96,0,0,0,0,0,90.94,90.9,89.88,89.84,0,89.86,89.82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2022,93.0,0,90.96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90.9,0,0,89.82,0,0,91.98,0,0,0,0,0,90.94,90.88,0,0,0,90.92,0,89.86,89.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023,91.0,0,89.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89.86,0,0,90.98,0,0,0,0,0,90.92,0,89.84,89.88,0,90.96,0,0,0,90.94,89.82,0,0,0,0,0,0,0,0,0,0,0,0
+2024,89.94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89.86,0,0,0,0,0,90.96,0,0,88.84,0,91.0,0,89.88,0,89.92,89.9,90.98,88.82,0,0,0,0,0,0,0,0,0,0
+2025,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89.9,0,0,0,0,91.0,0,89.88,0,0,0,90.96,0,90.98,89.94,89.92,88.86,88.84,88.82,0,0,0,0
+2026,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89.92,91.0,0,90.98,0,0,0,0,0,89.88,0,89.94,89.9,0,0,0,0,89.96,88.86,88.84,88.82
