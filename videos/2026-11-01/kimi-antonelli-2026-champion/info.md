@@ -15,7 +15,7 @@ Champion in Mexico: Verstappen won, Hamilton was second, and Antonelli's third p
 
 Data includes: Kimi Antonelli, Max Verstappen, Lewis Hamilton, George Russell, Charles Leclerc, Lando Norris, Oscar Piastri, Isack Hadjar, Liam Lawson, Pierre Gasly and other 2026 drivers.
 
-Data Source: F1DB championship standings after each 2026 round (github.com/f1db/f1db), checked against GPblog's standings before Mexico. Mexico City GP result from The Race (full classification), Autosport and PlanetF1 (top four and title).
+Data Source: F1DB championship standings after each 2026 round, including the official Mexico result (github.com/f1db/f1db), checked against GPblog's standings before Mexico. The Mexico penalties are confirmed by Formula1.com and Dive Bomb.
 
 #F1 #Formula1 #Antonelli #KimiAntonelli #F1Champion #Mercedes #MexicoGP #GraphRace
 
@@ -26,7 +26,7 @@ Data Source: F1DB championship standings after each 2026 round (github.com/f1db/
 
 ## How it works
 - Drivers' championship points after each Grand Prix and sprint weekend of 2026 (rounds 1–19). There is no fastest-lap point.
-- Mexico (round 19) points: Verstappen 25, Hamilton 18, Antonelli 15, Leclerc 12, Norris 10, Russell 8, Piastri 6, Colapinto 4, Lawson 2, Gasly 1. These are added to the official standings after Austin.
+- Mexico (round 19), official result after post-race penalties: Verstappen 25, Hamilton 18, Antonelli 15, Leclerc 12, Norris 10, Russell 8, Lawson 6, Bortoleto 4, Hadjar 2, Hirakawa 1 (on his F1 debut). Piastri (10 s for the Lindblad collision, 7th to 13th), Colapinto (10 s for yellow flags, 8th to 15th) and Gasly (30 s for double-waved yellows, 10th to 17th) lost their points.
 - After Mexico, four Grands Prix and no sprints remain (100 points at most), and Antonelli leads by 119.
 - Bar colours and logos are by team: Mercedes, Ferrari, Red Bull, McLaren, Alpine, Racing Bulls, Williams, Aston Martin, Haas, Audi and Cadillac.
 
@@ -36,5 +36,6 @@ Data Source: F1DB championship standings after each 2026 round (github.com/f1db/
 
 ## QA
 - Standings after Austin (round 18) match GPblog: Antonelli 365, Russell 242, Hamilton 241, Verstappen 236, Leclerc 233, Norris 211, Piastri 144, Hadjar 105, Lawson 77.
-- Mexico top four (Verstappen, Hamilton, Antonelli, Leclerc) agree across The Race, Autosport and PlanetF1. Positions 5–10 come from The Race's classification only. If a post-race penalty changes the result, the totals after Mexico could shift by a few points.
+- Mexico top six agree across The Race, Autosport, PlanetF1 and F1DB. Positions 7–10 use the final classification after the overnight penalties (F1DB, Dive Bomb, Formula1.com). The first render used the provisional result and had Piastri on 150; it is corrected to 144.
+- Standings after Mexico (F1DB): Antonelli 380, Verstappen 261, Hamilton 259, Russell 250, Leclerc 245, Norris 221, Piastri 144, Hadjar 107, Lawson 83, Gasly 42.
 - The 2026 Bahrain GP was run at Sepang ("Formula 1 Gulf Air Bahrain Grand Prix in Malaysia 2026", F1DB).
