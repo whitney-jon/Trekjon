@@ -1,6 +1,6 @@
 # Who has won the most ATP titles?
 
-Style: **Standard** (`goals_race_vertical.py`, tennis theme) with `--palette`, because four of the twelve players are American and the palette stops neighbouring bars sharing a colour. Flags are on the bars. 19 seasons in 29.9 s, about 1.6 s per season. This is shorter than our usual 40–45 s, at the user's request, to test whether it gets more views.
+Style: **Standard** (`goals_race_vertical.py`, tennis theme) with `--palette`, because four of the twelve players are American and the palette stops neighbouring bars sharing a colour. Flags are on the bars. **15-second cut**: 11 frames (2008, 2010, 2012, 2014, 2016, 2017, 2019, 2021, 2023, 2025, 2026), about 1.4 s each, at the user's request to test whether shorter gets more views. Switzerland's flag is drawn square, its true shape.
 
 ## Description
 At the end of 2008, Roger Federer had 57 titles, tenth on the all-time list. Jimmy Connors' 109 looked untouchable. Who has won the most ATP titles?
