@@ -4,27 +4,48 @@
 # event: 2014 | Dota 2 takes No. 1 | Dota 2
 # event: 2019 | Fortnite World Cup pays out $30m | Fortnite
 # color: Counter-Strike | 2010:#F28C28/#1B2838
+# logo: Counter-Strike | 2010:counter-strike
 # color: StarCraft | 2010:#1BA1E2
+# logo: StarCraft | 2010:none
 # color: WarCraft III | 2010:#8B1A1A/#D4A017
+# logo: WarCraft III | 2010:none
 # color: Halo | 2010:#3E7D3E
-# color: Quake | 2010:#7A1F12
+# logo: Halo | 2010:halo
+# color: Quake | 2010:#C7B299/#3A2A1A
+# logo: Quake | 2010:quake
 # color: EA FC (FIFA) | 2010:#1F8A4C
-# color: Call of Duty | 2010:#3C3C3C/#7FBF3F
+# logo: EA FC (FIFA) | 2010:none
+# color: Call of Duty | 2010:#C8C8C8/#3C3C3C
+# logo: Call of Duty | 2010:call-of-duty
 # color: CrossFire | 2010:#D94A2A
-# color: League of Legends | 2010:#0AC8B9/#C8AA6E
-# color: Dota 2 | 2010:#B8332A
+# logo: CrossFire | 2010:none
+# color: League of Legends | 2010:#0B2A3A/#C8AA6E
+# logo: League of Legends | 2010:league-of-legends
+# color: Dota 2 | 2010:#EDE6DD/#B8332A
+# logo: Dota 2 | 2010:dota-2
 # color: World of Tanks | 2010:#6B6B3A
+# logo: World of Tanks | 2010:none
 # color: Smite | 2010:#D4A017
-# color: Hearthstone | 2010:#C68B3A
-# color: Heroes of Storm | 2010:#4FA8FF/#7B2FBF
-# color: Overwatch | 2010:#FFFFFF/#F99E1A
+# logo: Smite | 2010:none
+# color: Hearthstone | 2010:#2C3E73/#E0B03C
+# logo: Hearthstone | 2010:hearthstone
+# color: Heroes of Storm | 2010:#E8E8F0/#7B2FBF
+# logo: Heroes of Storm | 2010:heroes-of-storm
+# color: Overwatch | 2010:#F4F4F4/#F99E1A
+# logo: Overwatch | 2010:overwatch
 # color: Fortnite | 2010:#8E44E8
-# color: PUBG | 2010:#6B4F2A/#F2A900
-# color: Arena of Valor | 2010:#E83E8C
-# color: Rainbow Six | 2010:#8A8F98
-# color: PUBG Mobile | 2010:#F2C230
-# color: Rocket League | 2010:#1E5BFF/#FF7A1A
-Year,Counter-Strike,StarCraft,WarCraft III,Halo,Quake,EA FC (FIFA),Call of Duty,CrossFire,League of Legends,Dota 2,World of Tanks,Smite,Hearthstone,Heroes of Storm,Overwatch,Fortnite,PUBG,Arena of Valor,Rainbow Six,PUBG Mobile,Rocket League
+# logo: Fortnite | 2010:fortnite
+# color: PUBG | 2010:#F2A900/#1A1A1A
+# logo: PUBG | 2010:pubg
+# color: Honor of Kings | 2010:#1B2A4A/#E0B03C
+# logo: Honor of Kings | 2010:honor-of-kings
+# color: Rainbow Six | 2010:#C9CDD3/#1A1A1A
+# logo: Rainbow Six | 2010:rainbow-six
+# color: PUBG Mobile | 2010:#F4F4F4/#F2A900
+# logo: PUBG Mobile | 2010:pubg-mobile
+# color: Rocket League | 2010:#F4F4F4/#1E5BFF
+# logo: Rocket League | 2010:rocket-league
+Year,Counter-Strike,StarCraft,WarCraft III,Halo,Quake,EA FC (FIFA),Call of Duty,CrossFire,League of Legends,Dota 2,World of Tanks,Smite,Hearthstone,Heroes of Storm,Overwatch,Fortnite,PUBG,Honor of Kings,Rainbow Six,PUBG Mobile,Rocket League
 2010,15.02,7.29,4.24,3.64,2.24,1.14,0.6,0.04,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2011,16.16,10.94,4.42,4.23,2.36,1.24,2.01,0.11,0.56,1.67,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 2012,17.16,15.28,4.5,4.34,2.44,1.31,2.19,0.48,4.84,3.77,0.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

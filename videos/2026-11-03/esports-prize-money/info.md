@@ -1,6 +1,6 @@
 # Which game has paid out the most prize money?
 
-Style: **F1 Dark Notebook skin** (`pl_notebook_style.py`, `NB_PRESET=f1dark`, `--theme money`, `--seconds 20`). The dark-mode trial is applied to a non-F1 topic, with the money icon in the header. 16 years in 20.1 s. Bars use each game's brand colour. **No game logos yet**: they weren't in the repo when this was rendered. It can be re-rendered with logos in a few minutes once they're in `logos/esports/`.
+Style: **F1 Dark Notebook skin** (`pl_notebook_style.py`, `NB_PRESET=f1dark`, `--theme money`, `--seconds 20`). The dark-mode trial is applied to a non-F1 topic, with the money icon in the header. 16 years in 20.1 s. Game logos (your uploads) sit on the bars. Bar colours were picked so each logo shows in its own colours: Dota 2 is on a cream bar so its red logo stays red. StarCraft, WarCraft III, EA FC, CrossFire, World of Tanks and Smite have no logo file, so their bars are plain. PUBG and PUBG Mobile both use the PUBG logo.
 
 ## Description
 In 2010 the richest game in esports was Counter-Strike, with $15 million paid out in prize money over its lifetime. Fifteen years later, one game has paid out more than $380 million. Which game has paid out the most prize money?
@@ -11,9 +11,9 @@ Key Highlights:
 Dota 2's Crowdfunded Fortune: The International's huge prize pools made Dota 2 No. 1 from 2014, on $382 million by the end of 2025.
 Counter-Strike's Comeback: The longest-running series (1.6, Source, CS:GO and CS2) is back clear in second on $230 million.
 The Fortnite Explosion: $0 to $100 million in two years, after the 2019 World Cup.
-Mobile Rising: Arena of Valor (Honor of Kings) and PUBG Mobile have both climbed into the top six.
+Mobile Rising: Honor of Kings (Arena of Valor) and PUBG Mobile have both climbed into the top six.
 
-Data includes: Dota 2, Counter-Strike, Fortnite, League of Legends, Arena of Valor, PUBG Mobile, Call of Duty, PUBG, StarCraft, Rocket League and other games that reached the top ten.
+Data includes: Dota 2, Counter-Strike, Fortnite, League of Legends, Honor of Kings, PUBG Mobile, Call of Duty, PUBG, StarCraft, Rocket League and other games that reached the top ten.
 
 Data Source: Esports Earnings (esportsearnings.com), yearly "Top Games" tables 1998–2025, summed by game.
 
@@ -27,7 +27,7 @@ Data Source: Esports Earnings (esportsearnings.com), yearly "Top Games" tables 1
 ## How it works
 - Cumulative tournament prize money in US dollars, as recorded by Esports Earnings. Totals before 2010 are carried into the first frame.
 - Series are grouped. **Counter-Strike** = 1.6 + Condition Zero + Source + CS:GO + CS2. **StarCraft** = Brood War + StarCraft II + Remastered. **Call of Duty** = all main titles and Warzone (not CoD Mobile or CoD Online). **Halo** = all Halo titles. **Overwatch** = 1 + 2. **EA FC (FIFA)** = all FIFA and EA Sports FC titles. **Quake** = all Quake titles. **WarCraft III** includes Reforged.
-- Kept separate: PUBG (PC) and PUBG Mobile; League of Legends (Wild Rift is not included); Arena of Valor as Esports Earnings lists it.
+- Kept separate: PUBG (PC) and PUBG Mobile; League of Legends (Wild Rift is not included); Esports Earnings' "Arena of Valor" entry, which includes the Chinese Honor of Kings leagues, is labelled Honor of Kings to match the logo.
 - Each year counts the top 40 games in Esports Earnings' table for that year. Games outside the top 40 in a year are not counted that year, so small totals can be slightly low; the top ten is unaffected.
 - It stops at the end of 2025. Esports Earnings' 2026 figures are still incomplete (Dota 2 and League of Legends barely appear yet).
 
