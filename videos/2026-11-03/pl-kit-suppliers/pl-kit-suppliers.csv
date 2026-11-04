@@ -29,41 +29,41 @@
 # label: 2025 | 2024-25
 # label: 2026 | 2025-26
 # label: 2027 | 2026-27
-# color: Umbro | 2001:#1C1C1C
+# color: Umbro | 2001:#DA020E | 2003:#034694 | 2010:#6CABDD | 2016:#7A263A
 # logo: Umbro | 2001:umbro
-# color: Pony | 2001:#F2C230
+# color: Pony | 2001:#7A263A/#1BB1E7
 # logo: Pony | 2001:pony
-# color: Puma | 2001:#D7262E
+# color: Puma | 2001:#003399 | 2013:#241F20/#FFFFFF | 2020:#6CABDD
 # logo: Puma | 2001:puma
-# color: Asics | 2001:#D9DDE3/#00589C
+# color: Asics | 2001:#FFFFFF/#009EE0
 # logo: Asics | 2001:asics
-# color: Adidas | 2001:#FFFFFF/#111111
+# color: Adidas | 2001:#241F20/#FFFFFF | 2013:#034694 | 2018:#EF0107
 # logo: Adidas | 2001:adidas
-# color: Reebok | 2001:#E9EDF2/#1E3A8A
+# color: Reebok | 2001:#FFFFFF/#263C7E
 # logo: Reebok | 2001:reebok
-# color: Nike | 2001:#F36F21
+# color: Nike | 2001:#EF0107 | 2018:#034694
 # logo: Nike | 2001:nike
-# color: Ribero | 2001:#8B1A1A
+# color: Ribero | 2001:#FFF200/#00A650
 # logo: Ribero | 2001:none
-# color: Le Coq Sportif | 2001:#1E4FA0
+# color: Le Coq Sportif | 2001:#6CABDD
 # logo: Le Coq Sportif | 2001:le-coq-sportif
-# color: Admiral | 2001:#FFFFFF/#14295C
+# color: Admiral | 2001:#FFFFFF/#1D428A
 # logo: Admiral | 2001:admiral
-# color: Fox Leisure | 2001:#E67E22
+# color: Fox Leisure | 2001:#003090
 # logo: Fox Leisure | 2001:none
-# color: Errea | 2001:#2E8B57
-# logo: Errea | 2001:none
-# color: Diadora | 2001:#0072CE
+# color: Errea | 2001:#FFFFFF/#E21C38
+# logo: Errea | 2001:errea
+# color: Diadora | 2001:#670E36/#95BFE5
 # logo: Diadora | 2001:none
-# color: Kappa | 2001:#111111/#E3001B
+# color: Kappa | 2001:#FFFFFF/#132257
 # logo: Kappa | 2001:kappa
-# color: Macron | 2001:#0057B8
+# color: Macron | 2001:#670E36 | 2017:#1B458F/#C4122E
 # logo: Macron | 2001:macron
-# color: Under Armour | 2001:#5A5A5A
+# color: Under Armour | 2001:#FFFFFF/#132257 | 2018:#D71920
 # logo: Under Armour | 2001:under-armour
-# color: Castore | 2001:#2B2B2B/#C9A227
+# color: Castore | 2001:#FDB913/#231F20
 # logo: Castore | 2001:castore
-# color: Hummel | 2001:#F4F4F4/#111111
+# color: Hummel | 2001:#003399
 # logo: Hummel | 2001:hummel
 Year,Umbro,Pony,Puma,Asics,Adidas,Reebok,Nike,Ribero,Le Coq Sportif,Admiral,Fox Leisure,Errea,Diadora,Kappa,Macron,Under Armour,Castore,Hummel
 2001,47,18,17,16,15,12,9,8,8,5,5,5,1,0,0,0,0,0
