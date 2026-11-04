@@ -1,0 +1,85 @@
+# topic: premier league assists all-time race
+# question: Who has the most|Premier League assists?
+# event: 2014 | Giggs retires on a record 162 assists | Ryan Giggs
+# event: 2024 | De Bruyne passes Fàbregas for 2nd | Kevin De Bruyne
+# label: 2007 | 2006-07
+# label: 2008 | 2007-08
+# label: 2009 | 2008-09
+# label: 2010 | 2009-10
+# label: 2011 | 2010-11
+# label: 2012 | 2011-12
+# label: 2013 | 2012-13
+# label: 2014 | 2013-14
+# label: 2015 | 2014-15
+# label: 2016 | 2015-16
+# label: 2017 | 2016-17
+# label: 2018 | 2017-18
+# label: 2019 | 2018-19
+# label: 2020 | 2019-20
+# label: 2021 | 2020-21
+# label: 2022 | 2021-22
+# label: 2023 | 2022-23
+# label: 2024 | 2023-24
+# label: 2025 | 2024-25
+# label: 2026 | 2025-26
+# logo: Ryan Giggs | 2007:manchester-united
+# color: Ryan Giggs | 2007:#D11A1A
+# logo: Dennis Bergkamp | 2007:arsenal
+# color: Dennis Bergkamp | 2007:#F4473A
+# logo: David Beckham | 2007:manchester-united
+# color: David Beckham | 2007:#D11A1A
+# logo: Teddy Sheringham | 2007:tottenham-hotspur
+# color: Teddy Sheringham | 2007:#132257
+# logo: Thierry Henry | 2007:arsenal
+# color: Thierry Henry | 2007:#F4473A
+# logo: Andrew Cole | 2007:manchester-united
+# color: Andrew Cole | 2007:#D11A1A
+# logo: Darren Anderton | 2007:tottenham-hotspur
+# color: Darren Anderton | 2007:#132257
+# logo: Alan Shearer | 2007:newcastle-united
+# color: Alan Shearer | 2007:#2B2B2B
+# logo: Matthew Le Tissier | 2007:southampton
+# color: Matthew Le Tissier | 2007:#D71920
+# logo: Nolberto Solano | 2007:newcastle-united
+# color: Nolberto Solano | 2007:#2B2B2B
+# logo: Steve McManaman | 2007:liverpool
+# color: Steve McManaman | 2007:#A0101F
+# logo: Frank Lampard | 2007:chelsea
+# color: Frank Lampard | 2007:#034694
+# logo: Steven Gerrard | 2007:liverpool
+# color: Steven Gerrard | 2007:#A0101F
+# logo: Wayne Rooney | 2007:manchester-united
+# color: Wayne Rooney | 2007:#D11A1A
+# logo: Cesc Fàbregas | 2007:arsenal
+# color: Cesc Fàbregas | 2007:#F4473A
+# logo: James Milner | 2007:aston-villa
+# color: James Milner | 2007:#670E36
+# logo: Christian Eriksen | 2007:tottenham-hotspur
+# color: Christian Eriksen | 2007:#132257
+# logo: David Silva | 2007:manchester-city
+# color: David Silva | 2007:#6CABDD
+# logo: Kevin De Bruyne | 2007:manchester-city
+# color: Kevin De Bruyne | 2007:#6CABDD
+# logo: Mohamed Salah | 2007:liverpool
+# color: Mohamed Salah | 2007:#A0101F
+Year,Ryan Giggs,Dennis Bergkamp,David Beckham,Teddy Sheringham,Thierry Henry,Andrew Cole,Darren Anderton,Alan Shearer,Matthew Le Tissier,Nolberto Solano,Steve McManaman,Frank Lampard,Steven Gerrard,Wayne Rooney,Cesc Fàbregas,James Milner,Christian Eriksen,David Silva,Kevin De Bruyne,Mohamed Salah
+2007,125,94,80,76,74,73,69,64,63,61,59,58,38,30,21,14,0,0,0,0
+2008,129,94,80,76,74,73,69,64,63,62,59,66,46,40,38,16,0,0,0,0
+2009,136,94,80,76,74,73,69,64,63,62,59,76,55,47,46,24,0,0,0,0
+2010,145,94,80,76,74,73,69,64,63,62,59,90,62,50,59,36,0,0,0,0
+2011,151,94,80,76,74,73,69,64,63,62,59,92,67,61,70,42,0,7,0,0
+2012,159,94,80,76,74,73,69,64,63,62,59,97,69,65,70,47,0,22,0,0
+2013,162,94,80,76,74,73,69,64,63,62,59,98,78,75,70,50,0,30,0,0
+2014,162,94,80,76,74,73,69,64,63,62,59,101,91,85,70,54,8,39,1,0
+2015,162,94,80,76,74,73,69,64,63,62,59,102,92,90,88,61,10,46,1,0
+2016,162,94,80,76,74,73,69,64,63,62,59,102,92,96,95,72,23,57,10,0
+2017,162,94,80,76,74,73,69,64,63,62,59,102,92,101,107,75,38,64,28,0
+2018,162,94,80,76,74,73,69,64,63,62,59,102,92,103,111,78,48,75,44,10
+2019,162,94,80,76,74,73,69,64,63,62,59,102,92,103,111,82,60,83,46,18
+2020,162,94,80,76,74,73,69,64,63,62,59,102,92,103,111,84,62,93,66,28
+2021,162,94,80,76,74,73,69,64,63,62,59,102,92,103,111,85,62,93,78,33
+2022,162,94,80,76,74,73,69,64,63,62,59,102,92,103,111,86,66,93,86,46
+2023,162,94,80,76,74,73,69,64,63,62,59,102,92,103,111,87,74,93,102,58
+2024,162,94,80,76,74,73,69,64,63,62,59,102,92,103,111,89,76,93,112,68
+2025,162,94,80,76,74,73,69,64,63,62,59,102,92,103,111,89,78,93,119,86
+2026,162,94,80,76,74,73,69,64,63,62,59,102,92,103,111,90,78,93,119,94
