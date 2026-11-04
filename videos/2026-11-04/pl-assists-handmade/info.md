@@ -1,6 +1,6 @@
 # Who has the most Premier League assists?
 
-Style: **Hand-made Notebook – Butter & Cobalt** (new `handmade_notebook_style.py`, `NB_PRESET=butter`): flat butter-yellow marker header with a torn edge, cobalt ink, tomato-red accents, fibre paper, washi tape, highlighter bars in each player's club colour. `--engage --seconds 41`, 20 seasons in 41.1 s (about 2 s per season).
+Style: **Hand-made Notebook – Butter & Cobalt** (new `handmade_notebook_style.py`, `NB_PRESET=butter`): flat butter-yellow marker header with a torn edge, cobalt ink, tomato-red accents, fibre paper, washi tape, highlighter bars in each player's club colour. `--engage --seconds 30`, 20 seasons in exactly 30.0 s (1.5 s per season, at the user's request).
 
 ## Description
 In 2006-07, Ryan Giggs already led the Premier League's all-time assists list with 125, well clear of Dennis Bergkamp on 94. Who has made the most Premier League assists?
