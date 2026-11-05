@@ -28,40 +28,40 @@
 # color: Dennis Bergkamp | 2007:#F4473A
 # logo: David Beckham | 2007:manchester-united
 # color: David Beckham | 2007:#D11A1A
-# logo: Teddy Sheringham | 2007:tottenham-hotspur
-# color: Teddy Sheringham | 2007:#132257
+# logo: Teddy Sheringham | 2007:west-ham-united | 2008:tottenham-hotspur
+# color: Teddy Sheringham | 2007:#7A263A | 2008:#132257
 # logo: Thierry Henry | 2007:arsenal
 # color: Thierry Henry | 2007:#F4473A
-# logo: Andrew Cole | 2007:manchester-united
-# color: Andrew Cole | 2007:#D11A1A
+# logo: Andrew Cole | 2007:portsmouth | 2008:sunderland | 2009:manchester-united
+# color: Andrew Cole | 2007:#001489 | 2008:#EB172B | 2009:#D11A1A
 # logo: Darren Anderton | 2007:tottenham-hotspur
 # color: Darren Anderton | 2007:#132257
 # logo: Alan Shearer | 2007:newcastle-united
 # color: Alan Shearer | 2007:#2B2B2B
 # logo: Matthew Le Tissier | 2007:southampton
 # color: Matthew Le Tissier | 2007:#D71920
-# logo: Nolberto Solano | 2007:newcastle-united
-# color: Nolberto Solano | 2007:#2B2B2B
+# logo: Nolberto Solano | 2007:newcastle-united | 2008:west-ham-united | 2009:newcastle-united
+# color: Nolberto Solano | 2007:#2B2B2B | 2008:#7A263A | 2009:#2B2B2B
 # logo: Steve McManaman | 2007:liverpool
 # color: Steve McManaman | 2007:#A0101F
-# logo: Frank Lampard | 2007:chelsea
-# color: Frank Lampard | 2007:#034694
+# logo: Frank Lampard | 2007:chelsea | 2015:manchester-city | 2016:chelsea
+# color: Frank Lampard | 2007:#034694 | 2015:#6CABDD | 2016:#034694
 # logo: Steven Gerrard | 2007:liverpool
 # color: Steven Gerrard | 2007:#A0101F
-# logo: Wayne Rooney | 2007:manchester-united
-# color: Wayne Rooney | 2007:#D11A1A
-# logo: Cesc Fàbregas | 2007:arsenal
-# color: Cesc Fàbregas | 2007:#F4473A
-# logo: James Milner | 2007:aston-villa
-# color: James Milner | 2007:#670E36
-# logo: Christian Eriksen | 2007:tottenham-hotspur
-# color: Christian Eriksen | 2007:#132257
+# logo: Wayne Rooney | 2007:manchester-united | 2018:everton | 2019:manchester-united
+# color: Wayne Rooney | 2007:#D11A1A | 2018:#003399 | 2019:#D11A1A
+# logo: Cesc Fàbregas | 2007:arsenal | 2015:chelsea | 2020:arsenal
+# color: Cesc Fàbregas | 2007:#F4473A | 2015:#034694 | 2020:#F4473A
+# logo: James Milner | 2007:newcastle-united | 2009:aston-villa | 2011:manchester-city | 2016:liverpool | 2024:brighton-and-hove-albion
+# color: James Milner | 2007:#2B2B2B | 2009:#670E36 | 2011:#6CABDD | 2016:#A0101F | 2024:#0057B8
+# logo: Christian Eriksen | 2007:tottenham-hotspur | 2022:brentford | 2023:manchester-united | 2026:tottenham-hotspur
+# color: Christian Eriksen | 2007:#132257 | 2022:#E30613 | 2023:#D11A1A | 2026:#132257
 # logo: David Silva | 2007:manchester-city
 # color: David Silva | 2007:#6CABDD
-# logo: Kevin De Bruyne | 2007:manchester-city
-# color: Kevin De Bruyne | 2007:#6CABDD
-# logo: Mohamed Salah | 2007:liverpool
-# color: Mohamed Salah | 2007:#A0101F
+# logo: Kevin De Bruyne | 2007:manchester-city | 2014:chelsea | 2015:manchester-city
+# color: Kevin De Bruyne | 2007:#6CABDD | 2014:#034694 | 2015:#6CABDD
+# logo: Mohamed Salah | 2007:liverpool | 2014:chelsea | 2016:liverpool
+# color: Mohamed Salah | 2007:#A0101F | 2014:#034694 | 2016:#A0101F
 Year,Ryan Giggs,Dennis Bergkamp,David Beckham,Teddy Sheringham,Thierry Henry,Andrew Cole,Darren Anderton,Alan Shearer,Matthew Le Tissier,Nolberto Solano,Steve McManaman,Frank Lampard,Steven Gerrard,Wayne Rooney,Cesc Fàbregas,James Milner,Christian Eriksen,David Silva,Kevin De Bruyne,Mohamed Salah
 2007,125,94,80,76,74,73,69,64,63,61,59,58,38,30,21,14,0,0,0,0
 2008,129,94,80,76,74,73,69,64,63,62,59,66,46,40,38,16,0,0,0,0
