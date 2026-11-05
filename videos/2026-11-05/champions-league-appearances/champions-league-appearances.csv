@@ -1,0 +1,92 @@
+# topic: UEFA Champions League appearances football
+# event: 2015 | Xavi breaks Raúl's record of 142 games | Xavi
+# event: 2022 | Ronaldo passes Casillas to set new record | Cristiano Ronaldo
+# logo: Raúl | 1990:real-madrid
+# logo: Roberto Carlos | 1990:real-madrid
+# logo: Gary Neville | 1990:manchester-united
+# logo: David Beckham | 1990:manchester-united
+# logo: Paolo Maldini | 1990:ac-milan
+# logo: Oliver Kahn | 1990:bayern-munich
+# logo: Ryan Giggs | 1990:manchester-united
+# logo: Luís Figo | 1990:real-madrid
+# logo: Frank de Boer | 1990:barcelona
+# logo: Paul Scholes | 1990:manchester-united
+# logo: Zinedine Zidane | 1990:real-madrid
+# logo: Edgar Davids | 1990:juventus
+# logo: Hasan Salihamidžić | 1990:bayern-munich
+# logo: Clarence Seedorf | 1990:ac-milan
+# logo: Thierry Henry | 1990:arsenal
+# logo: Claude Makélélé | 1990:chelsea
+# logo: Andriy Shevchenko | 1990:ac-milan
+# logo: Iker Casillas | 1990:real-madrid
+# logo: Xavi | 1990:barcelona
+# logo: Gianluigi Buffon | 1990:juventus
+# logo: Carles Puyol | 1990:barcelona
+# logo: Zlatan Ibrahimović | 1990:paris-saint-germain
+# logo: Cristiano Ronaldo | 1990:real-madrid
+# logo: Andrés Iniesta | 1990:barcelona
+# logo: Lionel Messi | 1990:barcelona
+# logo: Thomas Müller | 1990:bayern-munich
+# logo: Manuel Neuer | 1990:bayern-munich
+# logo: Karim Benzema | 1990:real-madrid
+# logo: Toni Kroos | 1990:real-madrid
+# logo: Robert Lewandowski | 1990:bayern-munich
+# logo: Sergio Ramos | 1990:real-madrid
+# logo: Luka Modrić | 1990:real-madrid
+# logo: Sergio Busquets | 1990:barcelona
+# color: Raúl | 1990:#FFFFFF
+# color: Roberto Carlos | 1990:#FFFFFF
+# color: Gary Neville | 1990:#DA291C
+# color: David Beckham | 1990:#DA291C
+# color: Paolo Maldini | 1990:#B5121B
+# color: Oliver Kahn | 1990:#DC052D
+# color: Ryan Giggs | 1990:#DA291C
+# color: Luís Figo | 1990:#FFFFFF
+# color: Frank de Boer | 1990:#A50044
+# color: Paul Scholes | 1990:#DA291C
+# color: Zinedine Zidane | 1990:#FFFFFF
+# color: Edgar Davids | 1990:#B8B8B8
+# color: Hasan Salihamidžić | 1990:#DC052D
+# color: Clarence Seedorf | 1990:#B5121B
+# color: Thierry Henry | 1990:#EF0107
+# color: Claude Makélélé | 1990:#1E5BC6
+# color: Andriy Shevchenko | 1990:#B5121B
+# color: Iker Casillas | 1990:#FFFFFF
+# color: Xavi | 1990:#A50044
+# color: Gianluigi Buffon | 1990:#B8B8B8
+# color: Carles Puyol | 1990:#A50044
+# color: Zlatan Ibrahimović | 1990:#E30613
+# color: Cristiano Ronaldo | 1990:#FFFFFF
+# color: Andrés Iniesta | 1990:#A50044
+# color: Lionel Messi | 1990:#A50044
+# color: Thomas Müller | 1990:#DC052D
+# color: Manuel Neuer | 1990:#DC052D
+# color: Karim Benzema | 1990:#FFFFFF
+# color: Toni Kroos | 1990:#FFFFFF
+# color: Robert Lewandowski | 1990:#DC052D
+# color: Sergio Ramos | 1990:#FFFFFF
+# color: Luka Modrić | 1990:#FFFFFF
+# color: Sergio Busquets | 1990:#A50044
+Year,Raúl,Roberto Carlos,Gary Neville,David Beckham,Paolo Maldini,Oliver Kahn,Ryan Giggs,Luís Figo,Frank de Boer,Paul Scholes,Zinedine Zidane,Edgar Davids,Hasan Salihamidžić,Clarence Seedorf,Thierry Henry,Claude Makélélé,Andriy Shevchenko,Iker Casillas,Xavi,Gianluigi Buffon,Carles Puyol,Zlatan Ibrahimović,Cristiano Ronaldo,Andrés Iniesta,Lionel Messi,Thomas Müller,Manuel Neuer,Karim Benzema,Toni Kroos,Robert Lewandowski,Sergio Ramos,Luka Modrić,Sergio Busquets
+2005,95,92,90,90,87,87,83,82,81,79,76,74,74,71,68,68,67,64,53,46,45,29,12,11,1,0,0,0,0,0,0,0,0
+2006,101,99,92,97,96,94,87,90,81,84,80,74,75,82,79,74,79,71,57,50,57,38,18,22,7,0,0,1,0,0,7,0,0
+2007,108,107,98,103,105,103,95,97,81,95,80,74,85,94,85,83,89,78,64,50,65,45,29,30,12,0,0,4,0,0,13,0,0
+2008,116,114,99,103,109,103,104,100,81,102,80,74,85,101,95,96,94,86,76,50,75,52,40,41,21,0,10,11,0,0,20,0,0
+2009,123,120,103,103,109,103,115,103,81,108,80,74,88,101,105,96,94,93,88,53,84,60,52,50,33,1,10,19,1,0,28,0,8
+2010,130,120,109,105,109,103,118,103,81,115,80,74,88,109,111,96,94,101,99,59,93,70,58,59,44,13,10,24,1,0,35,0,18
+2011,142,120,109,105,109,103,126,103,81,122,80,74,88,117,111,96,94,112,111,59,101,78,70,69,57,21,22,32,8,0,43,8,30
+2012,142,120,109,105,109,103,129,103,81,122,80,74,88,125,112,96,94,122,120,59,110,86,80,77,68,33,35,43,20,6,54,8,40
+2013,142,120,109,107,109,103,134,103,81,124,80,74,88,125,112,96,94,127,131,69,114,95,92,87,79,46,48,53,29,19,63,19,48
+2014,142,120,109,107,109,103,141,103,81,124,80,74,88,125,112,96,94,140,141,75,115,103,103,96,86,58,60,64,41,28,74,30,57
+2015,142,120,109,107,109,103,141,103,81,124,80,74,88,125,112,96,94,150,151,88,115,109,115,107,99,68,72,73,53,40,82,36,67
+2016,142,120,109,107,109,103,141,103,81,124,80,74,88,125,112,96,94,156,151,96,115,119,127,114,106,80,83,82,65,52,92,48,76
+2017,142,120,109,107,109,103,141,103,81,124,80,74,88,125,112,96,94,164,151,108,115,119,140,122,115,89,92,95,77,61,103,59,84
+2018,142,120,109,107,109,103,141,103,81,124,80,74,88,125,112,96,94,167,151,117,115,120,153,130,125,99,93,104,89,72,114,70,94
+2019,142,120,109,107,109,103,141,103,81,124,80,74,88,125,112,96,94,177,151,122,115,120,162,130,135,105,101,112,97,80,119,76,106
+2020,142,120,109,107,109,103,141,103,81,124,80,74,88,125,112,96,94,177,151,123,115,120,170,130,143,115,112,120,103,90,124,82,113
+2021,142,120,109,107,109,103,141,103,81,124,80,74,88,125,112,96,94,177,151,124,115,120,176,130,149,124,120,130,115,96,129,94,119
+2022,142,120,109,107,109,103,141,103,81,124,80,74,88,125,112,96,94,177,151,124,115,124,183,130,156,134,129,142,127,106,129,107,125
+2023,142,120,109,107,109,103,141,103,81,124,80,74,88,125,112,96,94,177,151,124,115,124,183,130,163,142,132,152,139,111,137,117,129
+2024,142,120,109,107,109,103,141,103,81,124,80,74,88,125,112,96,94,177,151,124,115,124,183,130,163,151,141,152,151,120,142,128,129
+2025,142,120,109,107,109,103,141,103,81,124,80,74,88,125,112,96,94,177,151,124,115,124,183,130,163,163,151,152,151,133,142,142,129
+2026,142,120,109,107,109,103,141,103,81,124,80,74,88,125,112,96,94,177,151,124,115,124,183,130,163,163,162,152,151,144,142,142,129
