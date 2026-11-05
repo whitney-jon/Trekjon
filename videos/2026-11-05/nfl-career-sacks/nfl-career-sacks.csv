@@ -3,82 +3,82 @@
 # snap-labels
 # event: 2003 | Bruce Smith breaks Reggie White's record | Bruce Smith
 # event: 2017 | Peppers passes Doleman for 4th all-time | Julius Peppers
-# logo: Bruce Smith | 1980:buffalo-bills-logo
-# logo: Reggie White | 1980:philadelphia-eagles-logo
-# logo: Kevin Greene | 1980:los-angeles-rams-logo
-# logo: Julius Peppers | 1980:carolina-panthers-logo
-# logo: Chris Doleman | 1980:minnesota-vikings-logo
-# logo: Michael Strahan | 1980:new-york-giants-logo
-# logo: Jason Taylor | 1980:miami-dolphins-logo
-# logo: Terrell Suggs | 1980:baltimore-ravens-logo
-# logo: Von Miller | 1980:denver-broncos-logo
-# logo: DeMarcus Ware | 1980:dallas-cowboys-logo
-# logo: Richard Dent | 1980:chicago-bears-logo
-# logo: John Randle | 1980:minnesota-vikings-logo
-# logo: Jared Allen | 1980:minnesota-vikings-logo
-# logo: John Abraham | 1980:atlanta-falcons-logo
-# logo: Leslie O'Neal | 1980:los-angeles-chargers-logo
-# logo: Cameron Jordan | 1980:new-orleans-saints-logo
-# logo: Rickey Jackson | 1980:new-orleans-saints-logo
-# logo: Derrick Thomas | 1980:kansas-city-chiefs-logo
-# logo: Dwight Freeney | 1980:indianapolis-colts-logo
-# logo: Simeon Rice | 1980:tampa-bay-buccaneers-logo
-# logo: Clyde Simmons | 1980:philadelphia-eagles-logo
-# logo: Sean Jones | 1980:houston-oilers-logo
-# logo: Robert Mathis | 1980:indianapolis-colts-logo
-# logo: Lawrence Taylor | 1980:new-york-giants-logo
-# logo: Dexter Manley | 1980:washington-redskins-logo
-# logo: Jacob Green | 1980:seattle-seahawks-logo
-# logo: Mark Gastineau | 1980:new-york-jets-logo
-# logo: Andre Tippett | 1980:new-england-patriots-logo
-# logo: Greg Townsend | 1980:oakland-raiders-logo
-# logo: Steve McMichael | 1980:chicago-bears-logo
-# logo: Jim Jeffcoat | 1980:dallas-cowboys-logo
-# logo: Al Baker | 1980:arizona-cardinals-logo
-# logo: Charles Mann | 1980:washington-redskins-logo
-# logo: Leonard Marshall | 1980:new-york-giants-logo
-# logo: Howie Long | 1980:oakland-raiders-logo
-# logo: Pat Swilling | 1980:new-orleans-saints-logo
-# logo: Simon Fletcher | 1980:denver-broncos-logo
-# logo: William Fuller | 1980:houston-oilers-logo
-# color: Bruce Smith | 1980:#00338D
-# color: Reggie White | 1980:#004C54
-# color: Kevin Greene | 1980:#003594
-# color: Julius Peppers | 1980:#0085CA
-# color: Chris Doleman | 1980:#4F2683
-# color: Michael Strahan | 1980:#0B2265
-# color: Jason Taylor | 1980:#008E97
-# color: Terrell Suggs | 1980:#241773
-# color: Von Miller | 1980:#FB4F14
-# color: DeMarcus Ware | 1980:#041E42
-# color: Richard Dent | 1980:#C83803
-# color: John Randle | 1980:#4F2683
-# color: Jared Allen | 1980:#4F2683
-# color: John Abraham | 1980:#A71930
-# color: Leslie O'Neal | 1980:#0080C6
-# color: Cameron Jordan | 1980:#9F8958
-# color: Rickey Jackson | 1980:#9F8958
-# color: Derrick Thomas | 1980:#E31837
-# color: Dwight Freeney | 1980:#002C5F
-# color: Simeon Rice | 1980:#D50A0A
-# color: Clyde Simmons | 1980:#004C54
-# color: Sean Jones | 1980:#4B92DB
-# color: Robert Mathis | 1980:#002C5F
-# color: Lawrence Taylor | 1980:#0B2265
-# color: Dexter Manley | 1980:#5A1414
-# color: Jacob Green | 1980:#002244
-# color: Mark Gastineau | 1980:#125740
-# color: Andre Tippett | 1980:#002244
-# color: Greg Townsend | 1980:#A5ACAF
-# color: Steve McMichael | 1980:#C83803
-# color: Jim Jeffcoat | 1980:#041E42
-# color: Al Baker | 1980:#97233F
-# color: Charles Mann | 1980:#5A1414
-# color: Leonard Marshall | 1980:#0B2265
-# color: Howie Long | 1980:#A5ACAF
-# color: Pat Swilling | 1980:#9F8958
-# color: Simon Fletcher | 1980:#FB4F14
-# color: William Fuller | 1980:#4B92DB
+# logo: Bruce Smith | 1985:buffalo-bills-logo | 2000:washington-redskins-logo
+# logo: Reggie White | 1985:philadelphia-eagles-logo | 1993:green-bay-packers-logo | 2000:carolina-panthers-logo
+# logo: Kevin Greene | 1985:los-angeles-rams-logo | 1993:pittsburgh-steelers-logo | 1996:carolina-panthers-logo | 1997:san-francisco-49ers-logo | 1998:carolina-panthers-logo
+# logo: Julius Peppers | 2002:carolina-panthers-logo | 2010:chicago-bears-logo | 2014:green-bay-packers-logo | 2017:carolina-panthers-logo
+# logo: Chris Doleman | 1985:minnesota-vikings-logo | 1994:atlanta-falcons-logo | 1996:san-francisco-49ers-logo | 1999:minnesota-vikings-logo
+# logo: Michael Strahan | 1993:new-york-giants-logo
+# logo: Jason Taylor | 1997:miami-dolphins-logo | 2008:washington-redskins-logo | 2009:miami-dolphins-logo | 2010:new-york-jets-logo | 2011:miami-dolphins-logo
+# logo: Terrell Suggs | 2003:baltimore-ravens-logo | 2019:kansas-city-chiefs-logo
+# logo: Von Miller | 2011:denver-broncos-logo | 2021:los-angeles-rams-logo | 2022:buffalo-bills-logo | 2025:washington-commanders-logo
+# logo: DeMarcus Ware | 2005:dallas-cowboys-logo | 2014:denver-broncos-logo
+# logo: Richard Dent | 1983:chicago-bears-logo | 1994:san-francisco-49ers-logo | 1995:chicago-bears-logo | 1996:indianapolis-colts-logo | 1997:philadelphia-eagles-logo
+# logo: John Randle | 1990:minnesota-vikings-logo | 2001:seattle-seahawks-logo
+# logo: Jared Allen | 2004:kansas-city-chiefs-logo | 2008:minnesota-vikings-logo | 2014:chicago-bears-logo | 2015:carolina-panthers-logo
+# logo: John Abraham | 2000:new-york-jets-logo | 2006:atlanta-falcons-logo | 2013:arizona-cardinals-logo
+# logo: Leslie O'Neal | 1986:los-angeles-chargers-logo | 1996:los-angeles-rams-logo | 1998:kansas-city-chiefs-logo
+# logo: Cameron Jordan | 2011:new-orleans-saints-logo
+# logo: Rickey Jackson | 1982:new-orleans-saints-logo | 1994:san-francisco-49ers-logo
+# logo: Derrick Thomas | 1989:kansas-city-chiefs-logo
+# logo: Dwight Freeney | 2002:indianapolis-colts-logo | 2013:los-angeles-chargers-logo | 2015:arizona-cardinals-logo | 2016:atlanta-falcons-logo | 2017:detroit-lions-logo
+# logo: Simeon Rice | 1996:arizona-cardinals-logo | 2001:tampa-bay-buccaneers-logo | 2007:indianapolis-colts-logo
+# logo: Clyde Simmons | 1986:philadelphia-eagles-logo | 1994:arizona-cardinals-logo | 1996:jacksonville-jaguars-logo | 1998:cincinnati-bengals-logo | 1999:chicago-bears-logo
+# logo: Sean Jones | 1984:oakland-raiders-logo | 1988:houston-oilers-logo | 1994:green-bay-packers-logo
+# logo: Robert Mathis | 2003:indianapolis-colts-logo
+# logo: Lawrence Taylor | 1982:new-york-giants-logo
+# logo: Dexter Manley | 1982:washington-redskins-logo | 1990:arizona-cardinals-logo | 1991:tampa-bay-buccaneers-logo
+# logo: Jacob Green | 1982:seattle-seahawks-logo | 1992:san-francisco-49ers-logo
+# logo: Mark Gastineau | 1982:new-york-jets-logo
+# logo: Andre Tippett | 1982:new-england-patriots-logo
+# logo: Greg Townsend | 1983:oakland-raiders-logo | 1994:philadelphia-eagles-logo | 1997:oakland-raiders-logo
+# logo: Steve McMichael | 1982:chicago-bears-logo | 1994:green-bay-packers-logo
+# logo: Jim Jeffcoat | 1983:dallas-cowboys-logo | 1995:buffalo-bills-logo
+# logo: Al Baker | 1982:detroit-lions-logo | 1983:arizona-cardinals-logo | 1987:cleveland-browns-logo | 1988:minnesota-vikings-logo | 1989:cleveland-browns-logo
+# logo: Charles Mann | 1983:washington-redskins-logo | 1994:san-francisco-49ers-logo
+# logo: Leonard Marshall | 1983:new-york-giants-logo | 1993:new-york-jets-logo | 1994:washington-redskins-logo
+# logo: Howie Long | 1982:oakland-raiders-logo
+# logo: Pat Swilling | 1986:new-orleans-saints-logo | 1993:detroit-lions-logo | 1995:oakland-raiders-logo
+# logo: Simon Fletcher | 1985:denver-broncos-logo
+# logo: William Fuller | 1986:houston-oilers-logo | 1994:philadelphia-eagles-logo | 1997:los-angeles-chargers-logo
+# color: Bruce Smith | 1985:#00338D | 2000:#5A1414
+# color: Reggie White | 1985:#004C54 | 1993:#203731 | 2000:#0085CA
+# color: Kevin Greene | 1985:#003594 | 1993:#FFB612 | 1996:#0085CA | 1997:#AA0000 | 1998:#0085CA
+# color: Julius Peppers | 2002:#0085CA | 2010:#C83803 | 2014:#203731 | 2017:#0085CA
+# color: Chris Doleman | 1985:#4F2683 | 1994:#A71930 | 1996:#AA0000 | 1999:#4F2683
+# color: Michael Strahan | 1993:#0B2265
+# color: Jason Taylor | 1997:#008E97 | 2008:#5A1414 | 2009:#008E97 | 2010:#125740 | 2011:#008E97
+# color: Terrell Suggs | 2003:#241773 | 2019:#E31837
+# color: Von Miller | 2011:#FB4F14 | 2021:#003594 | 2022:#00338D | 2025:#5A1414
+# color: DeMarcus Ware | 2005:#041E42 | 2014:#FB4F14
+# color: Richard Dent | 1983:#C83803 | 1994:#AA0000 | 1995:#C83803 | 1996:#002C5F | 1997:#004C54
+# color: John Randle | 1990:#4F2683 | 2001:#69BE28
+# color: Jared Allen | 2004:#E31837 | 2008:#4F2683 | 2014:#C83803 | 2015:#0085CA
+# color: John Abraham | 2000:#125740 | 2006:#A71930 | 2013:#97233F
+# color: Leslie O'Neal | 1986:#0080C6 | 1996:#003594 | 1998:#E31837
+# color: Cameron Jordan | 2011:#9F8958
+# color: Rickey Jackson | 1982:#9F8958 | 1994:#AA0000
+# color: Derrick Thomas | 1989:#E31837
+# color: Dwight Freeney | 2002:#002C5F | 2013:#0080C6 | 2015:#97233F | 2016:#A71930 | 2017:#0076B6
+# color: Simeon Rice | 1996:#97233F | 2001:#D50A0A | 2007:#002C5F
+# color: Clyde Simmons | 1986:#004C54 | 1994:#97233F | 1996:#006778 | 1998:#FB4F14 | 1999:#C83803
+# color: Sean Jones | 1984:#A5ACAF | 1988:#4B92DB | 1994:#203731
+# color: Robert Mathis | 2003:#002C5F
+# color: Lawrence Taylor | 1982:#0B2265
+# color: Dexter Manley | 1982:#5A1414 | 1990:#97233F | 1991:#D50A0A
+# color: Jacob Green | 1982:#69BE28 | 1992:#AA0000
+# color: Mark Gastineau | 1982:#125740
+# color: Andre Tippett | 1982:#002244
+# color: Greg Townsend | 1983:#A5ACAF | 1994:#004C54 | 1997:#A5ACAF
+# color: Steve McMichael | 1982:#C83803 | 1994:#203731
+# color: Jim Jeffcoat | 1983:#041E42 | 1995:#00338D
+# color: Al Baker | 1982:#0076B6 | 1983:#97233F | 1987:#311D00 | 1988:#4F2683 | 1989:#311D00
+# color: Charles Mann | 1983:#5A1414 | 1994:#AA0000
+# color: Leonard Marshall | 1983:#0B2265 | 1993:#125740 | 1994:#5A1414
+# color: Howie Long | 1982:#A5ACAF
+# color: Pat Swilling | 1986:#9F8958 | 1993:#0076B6 | 1995:#A5ACAF
+# color: Simon Fletcher | 1985:#FB4F14
+# color: William Fuller | 1986:#4B92DB | 1994:#004C54 | 1997:#0080C6
 Year,Lawrence Taylor,Dexter Manley,Reggie White,Richard Dent,Jacob Green,Mark Gastineau,Rickey Jackson,Andre Tippett,Greg Townsend,Steve McMichael,Jim Jeffcoat,Al Baker,Leonard Marshall,Howie Long,Charles Mann,Bruce Smith,Kevin Greene,Sean Jones,Chris Doleman,Pat Swilling,Clyde Simmons,Simon Fletcher,Leslie O'Neal,William Fuller,Derrick Thomas,Julius Peppers,Michael Strahan,Jason Taylor,Terrell Suggs,Von Miller,DeMarcus Ware,John Randle,Jared Allen,John Abraham,Cameron Jordan,Dwight Freeney,Simeon Rice,Robert Mathis
 1989,104,91,81,81,79,74,72.5,72.5,69.5,63,62.5,62.5,60,60,59.5,57.5,46.5,44.5,43.5,38,31.5,31.5,29,18,10,0,0,0,0,0,0,0,0,0,0,0,0,0
 1991,121.5,97.5,110,103.5,97.5,74,90,84.5,95,76,70,65.5,75.5,69,76.5,78,62.5,67,61.5,66,52,56,51.5,41,43.5,0,0,0,0,0,0,10.5,0,0,0,0,0,0

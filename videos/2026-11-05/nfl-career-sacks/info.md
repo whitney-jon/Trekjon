@@ -1,6 +1,6 @@
 # Who has the most sacks in NFL history?
 
-**Style:** Notebook (Hand-made Legal Pad) — `handmade_notebook_style.py`, `NB_PRESET=legalpad`, `--theme nfl` (no NFL icon file in icons/, so the script's drawn football icon is used), team logos from `logos/nfl` (no flags), `--engage --seconds 29.97` (900 frames, 30.0 s), 19 time points (~1.6 s each).
+**Style:** Notebook (Hand-made Coach's notebook: dark-blue header, light-beige paper, red pen, no yellow) — `handmade_notebook_style.py`, `NB_PRESET=coach` (new preset, 5 Nov 2026), `--theme nfl` (no NFL icon file in icons/, so the script's drawn football icon is used), team logos from `logos/nfl` (no flags) that follow each player's team season by season, `--engage --seconds 29.97` (900 frames, 30.0 s), 19 time points (~1.6 s each).
 
 ## Title
 Who has the most sacks in NFL history?
@@ -8,9 +8,9 @@ Who has the most sacks in NFL history?
 ## Description
 At the end of 1989 Lawrence Taylor led the NFL's official sack count with 104, ahead of Dexter Manley and a young Reggie White. So who has the most sacks in NFL history?
 
-This race tracks official NFL regular-season sacks (an official stat since 1982) from 1989 to the end of the 2025 season. Reggie White took over from Taylor in 1993, Bruce Smith passed White's record of 198 in December 2003, and Julius Peppers climbed to fourth with his 2017 Carolina return.
+This race tracks official NFL regular-season sacks (an official stat since 1982) from 1989 to the end of the 2025 season. Each player's logo follows him from team to team. Reggie White took over from Taylor in 1993, Bruce Smith passed White's record of 198 in December 2003, and Julius Peppers climbed to fourth on his return to Carolina in 2017.
 
-There are no European players in this top ten: it is an all-American list built by pass rushers from the Bills, Eagles, Rams, Panthers and Vikings.
+There are no European players in this top ten: it is an all-American list built by pass rushers who moved around the league, from Kevin Greene's five stints with four teams to Von Miller's run from Denver to Washington.
 
 Key Highlights:
 The LT Era: Lawrence Taylor led the official count through the early 1990s and finished on 132.5.
@@ -33,8 +33,8 @@ Data Source: Pro-Football-Reference player pages and career sack leaders (offici
 - Official sacks only (1982 on); pre-1982 sacks shown on PFR (e.g. Lawrence Taylor's 9.5 and Rickey Jackson's 8.0 in 1981) are not counted. Regular season only; 2026 (in progress) excluded.
 - Time points: every second season (1989, 1991 … 2025). Each value is the real cumulative total at the end of that season, all-time from 1982; nothing is interpolated. Two-season steps were used because one point per season (44 seasons) would be far too fast for 30 s, and 2002–2025 alone is almost frozen at the top.
 - Labels show one decimal (half sacks) and only ever show real end-of-season values (`# snap-labels`).
-- Logo and bar colour: the team where each player made most of his sacks (e.g. Kevin Greene = Rams, Reggie White = Eagles, Peppers = Panthers, Jared Allen = Vikings, Von Miller = Broncos, Al Baker = Cardinals).
-- Missing logo: `logos/nfl/houston-oilers-logo.png` (Sean Jones and William Fuller made most of their sacks for the Houston Oilers); their bars show no badge (`--logo-gaps`). Sean Jones is visible around 1995.
+- Logo and bar colour follow the player's team each season (Pro-Football-Reference team by season; on the two-season steps the logo is the team at the end of that season, and a retired player keeps his last team). E.g. Reggie White Eagles → Packers → Panthers, Bruce Smith Bills → Washington, Kevin Greene Rams → Steelers → Panthers → 49ers → Panthers, Peppers Panthers → Bears → Packers → Panthers, Von Miller Broncos → Rams → Bills → Commanders. Washington uses the Redskins-era logo up to 2019 and the Commanders logo from 2020.
+- Houston Oilers logo uploaded by the user on 5 Nov 2026 (Sean Jones 1988-93, William Fuller 1986-93).
 
 ## QA
 - Final row (2025) checked against two sources: PFR career leaders (official, filtered to 1982+) and Wikipedia's list: Smith 200, White 198, Greene 160, Peppers 159.5, Doleman 150.5, Strahan 141.5, J. Taylor 139.5, Suggs 139, Miller 138.5, Ware 138.5, Dent 137.5, Randle 137.5. Every player's season sum equals his official career total.
