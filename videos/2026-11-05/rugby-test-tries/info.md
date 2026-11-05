@@ -1,6 +1,6 @@
 # Who has scored the most rugby test tries?
 
-**Style:** Notebook (Hand-made Sand & Bottle Green) — `handmade_notebook_style.py`, `NB_PRESET=sand`, `--theme rugby` (no rugby icon file in icons/, so the script's drawn rugby ball is used), country flags, `--palette` (8 of 20 rows are New Zealand), `--engage --seconds 30.27` → 899 frames (29.97 s; this data's pacing jumps from 899 to 903 frames, so exactly 900 wasn't reachable), 19 time points (~1.6 s each).
+**Style:** Notebook (Hand-made Sand & Bottle Green) — `handmade_notebook_style.py`, `NB_PRESET=sand`, `--theme rugby` (no rugby icon file in icons/, so the script's drawn rugby ball is used), country flags, `--palette` (8 of 20 rows are New Zealand), `--engage --seconds 23.034` → 691 frames (23.0 s; re-cut on 5 Nov 2026 at the user's request, everything else unchanged — the first 30 s version is in git history), 19 time points (~1.2 s each).
 
 ## Title
 Who has scored the most rugby test tries?

@@ -1,6 +1,6 @@
 # Who has scored the most T20 international runs?
 
-**Style:** Notebook (Hand-made Moss & Peach) — `handmade_notebook_style.py`, `NB_PRESET=moss`, `--theme cricket` (no cricket icon file in icons/, so the script's drawn cricket ball is used), country flags, `--palette`, `--engage --seconds 29.97` → 899 frames (29.97 s; 30.0 gave 901 and this data's pacing skips 900), 20 time points (1.5 s each).
+**Style:** Notebook (Hand-made Moss & Peach) — `handmade_notebook_style.py`, `NB_PRESET=moss`, `--theme cricket` (no cricket icon file in icons/, so the script's drawn cricket ball is used), country flags, `--palette`, `--engage --seconds 43.97` → 1,319 frames (44.0 s; re-cut on 5 Nov 2026 at the user's request because the 30 s version moved too fast, everything else unchanged), 20 time points (~2.2 s each).
 
 ## Title
 Who has scored the most T20 international runs?
