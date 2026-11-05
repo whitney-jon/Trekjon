@@ -32,7 +32,7 @@ Data Source: Pro-Football-Reference player pages and career sack leaders (offici
 ## Data notes / reading of the brief
 - Official sacks only (1982 on); pre-1982 sacks shown on PFR (e.g. Lawrence Taylor's 9.5 and Rickey Jackson's 8.0 in 1981) are not counted. Regular season only; 2026 (in progress) excluded.
 - Time points: every second season (1989, 1991 … 2025). Each value is the real cumulative total at the end of that season, all-time from 1982; nothing is interpolated. Two-season steps were used because one point per season (44 seasons) would be far too fast for 30 s, and 2002–2025 alone is almost frozen at the top.
-- Labels show one decimal (half sacks) and only ever show real end-of-season values (`# snap-labels`).
+- Labels show one decimal (half sacks) and count up as the bars grow (the user asked for moving numbers on 5 Nov 2026); they land on the real end-of-season values at each time point.
 - Logo and bar colour follow the player's team each season (Pro-Football-Reference team by season; on the two-season steps the logo is the team at the end of that season, and a retired player keeps his last team). E.g. Reggie White Eagles → Packers → Panthers, Bruce Smith Bills → Washington, Kevin Greene Rams → Steelers → Panthers → 49ers → Panthers, Peppers Panthers → Bears → Packers → Panthers, Von Miller Broncos → Rams → Bills → Commanders. Washington uses the Redskins-era logo up to 2019 and the Commanders logo from 2020.
 - Houston Oilers logo uploaded by the user on 5 Nov 2026 (Sean Jones 1988-93, William Fuller 1986-93).
 
