@@ -1,6 +1,6 @@
 # Who has played the most Champions League games?
 
-**Style:** Notebook (Hand-made UCL: night-blue header, white notebook paper) — `handmade_notebook_style.py`, `NB_PRESET=ucl` (new preset, 5 Nov 2026), icon `icons/champions-league.png` (re-inked white), club badges only (no flags) that follow each player's club season by season, `--engage --seconds 30` (900 frames, 30.0 s), 22 time points (~1.4 s each). Re-rendered 5 Nov 2026 at the user's request (first version: Hand-made Blueprint, one club per player).
+**Style:** Notebook (Hand-made UCL: night-blue header, white notebook paper) — `handmade_notebook_style.py`, `NB_PRESET=ucl` (new preset, 5 Nov 2026), icon `icons/champions-league.png` (re-inked white), club badges only (no flags) that follow each player's club season by season, `--engage --seconds 33` (990 frames, 33.0 s; slowed from 30 s at the user's request), 22 time points (~1.5 s each). Re-rendered 5 Nov 2026 at the user's request (first version: Hand-made Blueprint, one club per player).
 
 ## Title
 Who has played the most Champions League games?
