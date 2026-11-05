@@ -1,30 +1,28 @@
-# Who has the most 40-point games since 1990?
+# Who has the most 40-point games in NBA history?
 
-**Style:** Notebook (Hand-made Slate & Tangerine, dark) — `handmade_notebook_style.py`, `NB_PRESET=slate`, `--theme basketball` (no NBA icon file in icons/, so the script's drawn basketball is used), team logos from `logos/nba` (no flags), `--engage --seconds 30 --season-labels` (900 frames, 30.0 s), 20 time points (~1.5 s each).
+**Style:** Notebook (Hand-made Slate header on white paper) — `handmade_notebook_style.py`, `NB_PRESET=slatewhite` (new preset, 5 Nov 2026: grey header kept, white sheet), `--theme basketball` (drawn basketball icon), team logos from `logos/nba` that follow each player's team season by season (era logos where the user uploaded them), `--engage --seconds 30` (900 frames, 30.0 s), 24 time points (~1.25 s each). Re-rendered 5 Nov 2026 at the user's request: all of NBA history instead of "since 1990", data to 5 Nov 2026, team switches, white paper, Hawks bars in gold.
 
 ## Title
-Who has the most 40-point games since 1990?
-
-(The brief's working title was "Who has the most 40-point games in NBA history?". The race counts from 1989-90, not all-time — Wilt Chamberlain and pre-1990 Jordan games aren't in it — so the title and on-screen question say "since 1990" to stay accurate.)
+Who has the most 40-point games in NBA history?
 
 ## Description
-In 1989-90 Michael Jordan scored 40 or more points 22 times, and nobody else had more than 11. So who has the most 40-point games since 1990?
+In 1959-60, his rookie season, Wilt Chamberlain was already near the top of the NBA's 40-point game count, alongside George Mikan and Bob Pettit. So who has the most 40-point games in NBA history?
 
-This race counts NBA regular-season 40-point games from the 1989-90 season to 2025-26, with everyone starting on zero. Jordan led for two decades, Kobe Bryant's 27-game 2005-06 season set up his takeover in 2009-10, and James Harden's scoring seasons with Houston lifted him past Jordan into second in July 2020.
+This race counts every regular-season 40-point game from the NBA's first season to November 2026, with each player's logo following him from team to team. Wilt Chamberlain's 271 has never been threatened, so the race is for second: Elgin Baylor held it for three decades until Michael Jordan passed him in February 1990, with Kobe Bryant and James Harden climbing in behind.
 
-European fans will spot Slovenia's Luka Dončić, the fastest riser of the 2020s with 62, and Greece's Giannis Antetokounmpo, who sits just outside the top 9 on 56.
+European fans will spot Slovenia's Luka Dončić, who has 67 after five 40-point games in the first weeks of 2026-27, and Greece's Giannis Antetokounmpo on 56. Both are just outside the top ten.
 
 Key Highlights:
-Jordan's Era: Michael Jordan had 96 40-point games from 1989-90 on, 88 of them for Chicago.
-Kobe's Season: Kobe Bryant had 27 40-point games in 2005-06, including his 81 against Toronto on 22 Jan 2006.
-Harden Climbs: James Harden passed Jordan's 96 with 49 points against Dallas on 31 Jul 2020.
-New Wave: Luka Dončić had 16 40-point games in 2025-26 and finished the season on 62.
+Wilt's Record: Wilt Chamberlain scored 40 or more points 271 times, in a quarter of his NBA games.
+Jordan Moves Up: Michael Jordan passed Elgin Baylor with 49 points against Orlando on 14 February 1990 and finished on 173.
+Harden Climbs: James Harden passed Baylor for fourth with 47 points at Phoenix on 21 December 2019.
+LeBron in Philadelphia: LeBron James starts 2026-27 with the 76ers on 79, level with Allen Iverson.
 
-Data includes: Kobe Bryant, James Harden, Michael Jordan, Allen Iverson, LeBron James, Stephen Curry, Kevin Durant, Luka Dončić, Damian Lillard, Giannis Antetokounmpo, and other historical top-ten contenders.
+Data includes: Wilt Chamberlain, Michael Jordan, Kobe Bryant, James Harden, Elgin Baylor, LeBron James, Allen Iverson, Oscar Robertson, Stephen Curry, Kevin Durant, and other historical top-ten contenders.
 
-Data Source: LandOfBasketball.com season-by-season 40-point game lists (1989-90 to 2025-26); StatMuse regular-season 40-point games (1989-90 to 2025-26).
+Data Source: LandOfBasketball.com season-by-season 40-point game lists (1946-47 to 5 Nov 2026); Basketball-Reference player team histories.
 
-#NBA #Basketball #40PointGames #NBAStats #KobeBryant #JamesHarden #MichaelJordan #LukaDoncic
+#NBA #Basketball #40PointGames #NBAStats #WiltChamberlain #MichaelJordan #KobeBryant #NBAHistory
 
 ## Music (pick from the YouTube/Facebook in-app audio library so it's licensed and won't be muted or claimed)
 1. "Jump Around" – House of Pain
@@ -32,16 +30,17 @@ Data Source: LandOfBasketball.com season-by-season 40-point game lists (1989-90 
 3. "Power" – Kanye West
 
 ## Data notes / reading of the brief
-- Regular season only, 1989-90 to 2025-26 (2026-27, in progress, excluded). Everyone starts on 0 (`--season-labels`; zero row labelled 1990).
-- Time points: every second season (1990, 1992 … 2026, labels are the season's end year). Each value is the real cumulative count at the end of that season; 37 single seasons would be far too fast for 30 s.
-- Logo and bar colour: the team where each player had most of his 40-point games since 1989-90 (e.g. Shaquille O'Neal = Lakers 26 v Magic 21, LeBron = Cavaliers 51, Durant = Thunder 45, Dončić = Mavericks 42, Vince Carter = Nets 17 v Raptors 14 — the Nets use the current Brooklyn logo; Carmelo Anthony is 17–17 Nuggets/Knicks, shown as Nuggets).
-- Missing logos in `logos/nba/` (those bars show no badge): `jazz.png` (Karl Malone), `magic.png` (Tracy McGrady), `suns.png` (Tom Chambers), `hornets.png` (Glen Rice). Karl Malone and McGrady are visible for long stretches.
+- NBA regular season only (ABA games are not counted, e.g. Rick Barry's and George Gervin's ABA years). All seasons from 1946-47; the 2026-27 season is counted to 5 Nov 2026 (last row labelled "Nov 2026").
+- Time points: 1960 (all totals from 1946-47 carried in), then every third season (1963 … 2026), then Nov 2026. Each value is the real cumulative count at the end of that season.
+- Logo and bar colour follow the player's team each season (Basketball-Reference team by season; in two-team seasons the team he finished with; a retired player keeps his last team). Examples: Wilt Philadelphia Warriors → San Francisco Warriors → 76ers → Lakers; Oscar Robertson Cincinnati Royals → Bucks; LeBron Cavaliers → Heat → Cavaliers → Lakers → 76ers (2026-27); Harden Thunder → Rockets → Nets → 76ers → Clippers → Cavaliers; Durant SuperSonics → Thunder → Warriors → Nets → Suns → Rockets; Michael Jordan finishes with the Wizards. Rick Barry keeps the San Francisco Warriors logo through his ABA years (1967-72) because only NBA games count.
+- Era logos uploaded by the user on 5 Nov 2026: Cincinnati Royals, Buffalo Braves, New Orleans Jazz, San Francisco Warriors, San Diego Rockets, Chicago Packers, Kansas City Kings, plus Jazz, Magic, Suns and Clippers. Atlanta Hawks bars are Hawks gold, so the red Hawks logo stays visible.
+- Tom Chambers and Karl Malone from the first version are no longer in the race: all-time, they aren't close to the top ten (Malone 44).
 
 ## QA
-- Final row (end of 2025-26) checked against two sources: LandOfBasketball season lists (summed) and StatMuse "most 40 point games from 1989-90 to 2025-26 regular season": Kobe 122, Harden 107, Jordan 96, LeBron 79, Iverson 79, Curry 75, Durant 74, Dončić 62, Lillard 60, Giannis 56, Westbrook 50, Shaq 49, Embiid 49 — exact match.
-- Intermediate spot checks: StatMuse single-season lists for 1989-90 to 1996-97 match LandOfBasketball exactly (e.g. 1989-90 Jordan 22, Ewing 11, Malone 11, Bird 7, Chambers 7; 1996-97 Jordan 8, Rice 7, Sprewell 6, Iverson 5); StatMuse 1989-90 to 2005-06 leader Jordan 96 = CSV 2006; every LandOfBasketball season list sums to its own season total.
+- Final row checked: every LandOfBasketball season list sums to its own season total, and the cumulative totals equal LandOfBasketball's all-time table exactly (Wilt 271, Jordan 173, Kobe 122, Harden 107, Baylor 88, Iverson 79, LeBron 79, Robertson 77, Curry 76, Durant 74). StatMuse confirms Wilt 271 all-time; its 1989-90 to 2025-26 table (checked earlier the same day) matches the post-1990 counts exactly (Kobe 122, Harden 107, Jordan 96 since 1990, LeBron 79, Curry 75, Durant 74, Dončić 62). Dončić's 5 games in 2026-27 are dated (25 Oct 52 @ Jazz, 27 Oct 41, 1 Nov 45, 2 Nov 42, 4 Nov 40 @ Kings), so 62 + 5 = 67.
+- Intermediate spot checks: StatMuse single-season lists for 1989-90 to 1996-97 match LandOfBasketball exactly; StatMuse's 1989-90 to 2005-06 leader (Jordan, 96) matches the CSV.
 - Events:
-  - 2006: Kobe has 27 40-point games in 2005-06, incl. 81 v Toronto on 22 Jan 2006 (LandOfBasketball 2005-06 40-point game list, game log dated 2006-01-22, 81 pts, W 122-104 v Raptors).
-  - 2020: Harden passes Jordan for 2nd — his 97th since 1989-90: 49 pts, W 153-149 OT at Dallas, 31 Jul 2020 (LandOfBasketball 2019-20 game list: 77 before the season, 20th of 2019-20).
-- Lead change on screen: Jordan → Kobe (2010).
-- Checks: safe-zone check passed; preview stills and 7 frames from the MP4 reviewed; final frame numbers match the CSV; event card text dark on tangerine, readable.
+  - 1990: Jordan passes Baylor for 2nd place — his 89th 40-point game, 49 pts @ Orlando, 14 Feb 1990 (LandOfBasketball 1989-90 game list).
+  - 2020: Harden passes Baylor for 4th place — his 89th, 47 pts @ Phoenix, 21 Dec 2019 (LandOfBasketball 2019-20 game list). The two cards are about 7.5 s apart (a little under the usual 10 s).
+- Lead: Wilt Chamberlain from 1960 throughout; the race for 2nd goes Baylor → Jordan (1990).
+- Checks: safe-zone check passed; preview stills and 7 frames from the MP4 reviewed; final frame matches the CSV; event card text dark on tangerine, readable.

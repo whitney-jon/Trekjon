@@ -1,6 +1,6 @@
 # Who has played the most Champions League games?
 
-**Style:** Notebook (Hand-made Blueprint) — `handmade_notebook_style.py`, `NB_PRESET=blueprint`, icon `icons/champions-league.png` (re-inked), club badges only (no flags), `--engage --seconds 30` (900 frames, 30.0 s), 22 time points (~1.4 s each).
+**Style:** Notebook (Hand-made UCL: night-blue header, white notebook paper) — `handmade_notebook_style.py`, `NB_PRESET=ucl` (new preset, 5 Nov 2026), icon `icons/champions-league.png` (re-inked white), club badges only (no flags) that follow each player's club season by season, `--engage --seconds 30` (900 frames, 30.0 s), 22 time points (~1.4 s each). Re-rendered 5 Nov 2026 at the user's request (first version: Hand-made Blueprint, one club per player).
 
 ## Title
 Who has played the most Champions League games?
@@ -8,15 +8,15 @@ Who has played the most Champions League games?
 ## Description
 In 2005 Real Madrid's Raúl led the Champions League appearance chart with 95 games, ahead of Roberto Carlos, Gary Neville and David Beckham. So who has played the most Champions League games of all time?
 
-This race tracks UEFA Champions League appearances (group/league phase to the final, qualifiers excluded) from 2004-05 to 2025-26. Raúl's long reign at the top ended when Xavi took the record in 2014, Iker Casillas took it at Porto in 2015, and Cristiano Ronaldo became the outright record holder with Manchester United in 2021.
+This race tracks UEFA Champions League appearances (group/league phase to the final, qualifiers excluded) from 2004-05 to 2025-26, with each player's badge following him from club to club. Raúl's long reign at the top ended when Xavi took the record in 2014, Iker Casillas took it at Porto in 2015, and Cristiano Ronaldo became the outright record holder with Manchester United in 2021.
 
 It is a European story from start to finish: Real Madrid, Barcelona, Bayern Munich, Manchester United and AC Milan players fill the leaderboard, with Bayern's Thomas Müller and Manuel Neuer the latest to climb into the top five.
 
 Key Highlights:
-Raúl's Reign: Raúl was the first player to 100 Champions League games (Feb 2006) and finished on 142.
+Raúl's Reign: Raúl was the first player to 100 Champions League games (Feb 2006) and finished on 142, his last 12 for Schalke.
 Xavi Moves Ahead: Xavi passed Raúl's 142 in September 2014 and finished on 151.
 Casillas at Porto: Casillas took the record with Porto in 2015 and ended on 177.
-Ronaldo on Top: Cristiano Ronaldo passed Casillas in September 2021 and finished on 183.
+Ronaldo on Top: Cristiano Ronaldo passed Casillas with Manchester United in September 2021 and finished on 183.
 
 Data includes: Cristiano Ronaldo, Iker Casillas, Lionel Messi, Thomas Müller, Manuel Neuer, Karim Benzema, Xavi, Toni Kroos, Robert Lewandowski, and other historical top-ten contenders.
 
@@ -32,7 +32,7 @@ Data Source: UEFA.com all-time Champions League appearances (Nov 2026) and Wikip
 ## Data notes / reading of the brief
 - Count: main competition only (group/league phase, knockout-phase play-off from 2024-25, knockouts, final). Qualifying rounds excluded, and the 1992-93/1993-94 early knockout rounds before the group stage treated as qualifiers (that reproduces UEFA/Wikipedia totals, e.g. Giggs 141, Maldini 109).
 - Years: each label is the season's end year (2022 = 2021-22). First row (2005) carries all totals from 1992-93 to 2004-05. 2026-27 (in progress) excluded.
-- Badge and bar colour: the club where each player made most of his Champions League appearances (e.g. Ronaldo = Real Madrid 101, Ibrahimović = PSG 33, Makélélé = Chelsea, Zidane = Real Madrid, Frank de Boer = Barcelona). Barcelona uses garnet, Juventus grey (black would vanish on the dark paper), PSG red.
+- Badge and bar colour follow the player's club each season (e.g. Ronaldo Man United → Real Madrid → Juventus → Man United; Raúl Real Madrid → Schalke; Roberto Carlos Real Madrid → Fenerbahçe). After a player's last Champions League season his bar keeps that club. Every player's season-by-season apps were checked against his per-club totals in the Wikipedia list (all 18 multi-club players match). Real Madrid bars are gold (white would vanish on white paper); Milan black, Juventus dark grey, Barcelona garnet.
 - Shevchenko is shown on the strict count (94): Wikipedia/UEFA list 100, but the 6-game gap is exactly his Dynamo Kyiv qualifying games (Brøndby 1997, Barry Town and Sparta Prague 1998), so his official figure includes qualifiers. He never reaches the visible top 9 either way.
 - Gerard Piqué left out: his season split could not be reconciled with his 128 total; he is never higher than 12th in any season, so the visible top 9 is unaffected.
 - Neuer: 162 at the end of 2025-26 (UEFA 10 Sep 2026 and Wikipedia both 162; UEFA's 164 on 3 Nov 2026 includes 2026-27 games). His 2011-12 split (13) is taken from the 162 total; Wikipedia's 14 includes the Zürich play-off.
