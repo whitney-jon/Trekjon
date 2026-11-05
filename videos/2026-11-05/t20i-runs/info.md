@@ -1,6 +1,6 @@
 # Who has scored the most T20 international runs?
 
-**Style:** Notebook (Hand-made Moss & Peach) — `handmade_notebook_style.py`, `NB_PRESET=moss`, `--theme cricket` (no cricket icon file in icons/, so the script's drawn cricket ball is used), country flags, bars in each team's kit colour (India light blue, Pakistan green, Australia gold, England blue, New Zealand black, Ireland green, South Africa green, Sri Lanka blue, West Indies maroon, Afghanistan blue; UAE red and Malaysia navy from their national colours), `--engage --seconds 44` → 1,320 frames (44.0 s), 21 time points (~2.1 s each). Updated 5 Nov 2026 at the user's request: 44 s, kit colours, and a final 'Nov 2026' point.
+**Style:** Notebook (Hand-made Moss & Peach) — `handmade_notebook_style.py`, `NB_PRESET=moss`, `--theme cricket` (no cricket icon file in icons/, so the script's drawn cricket ball is used), country flags, bars in each team's kit colour (India light blue, Pakistan green, Australia gold, England blue, New Zealand black, Ireland green, South Africa green, Sri Lanka blue, West Indies maroon, Afghanistan blue; UAE red and Malaysia navy from their national colours), `--engage --seconds 50` → 1,501 frames (50.0 s), 21 time points (~2.4 s each), slowed for older viewers. Updated 5 Nov 2026 at the user's request: 50 s, kit colours, and a final 'Nov 2026' point.
 
 ## Title
 Who has scored the most T20 international runs?
