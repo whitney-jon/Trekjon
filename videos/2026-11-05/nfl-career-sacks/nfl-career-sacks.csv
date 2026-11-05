@@ -1,0 +1,101 @@
+# topic: NFL career sacks american football
+# format: |||1
+# snap-labels
+# event: 2003 | Bruce Smith breaks Reggie White's record | Bruce Smith
+# event: 2017 | Peppers passes Doleman for 4th all-time | Julius Peppers
+# logo: Bruce Smith | 1980:buffalo-bills-logo
+# logo: Reggie White | 1980:philadelphia-eagles-logo
+# logo: Kevin Greene | 1980:los-angeles-rams-logo
+# logo: Julius Peppers | 1980:carolina-panthers-logo
+# logo: Chris Doleman | 1980:minnesota-vikings-logo
+# logo: Michael Strahan | 1980:new-york-giants-logo
+# logo: Jason Taylor | 1980:miami-dolphins-logo
+# logo: Terrell Suggs | 1980:baltimore-ravens-logo
+# logo: Von Miller | 1980:denver-broncos-logo
+# logo: DeMarcus Ware | 1980:dallas-cowboys-logo
+# logo: Richard Dent | 1980:chicago-bears-logo
+# logo: John Randle | 1980:minnesota-vikings-logo
+# logo: Jared Allen | 1980:minnesota-vikings-logo
+# logo: John Abraham | 1980:atlanta-falcons-logo
+# logo: Leslie O'Neal | 1980:los-angeles-chargers-logo
+# logo: Cameron Jordan | 1980:new-orleans-saints-logo
+# logo: Rickey Jackson | 1980:new-orleans-saints-logo
+# logo: Derrick Thomas | 1980:kansas-city-chiefs-logo
+# logo: Dwight Freeney | 1980:indianapolis-colts-logo
+# logo: Simeon Rice | 1980:tampa-bay-buccaneers-logo
+# logo: Clyde Simmons | 1980:philadelphia-eagles-logo
+# logo: Sean Jones | 1980:houston-oilers-logo
+# logo: Robert Mathis | 1980:indianapolis-colts-logo
+# logo: Lawrence Taylor | 1980:new-york-giants-logo
+# logo: Dexter Manley | 1980:washington-redskins-logo
+# logo: Jacob Green | 1980:seattle-seahawks-logo
+# logo: Mark Gastineau | 1980:new-york-jets-logo
+# logo: Andre Tippett | 1980:new-england-patriots-logo
+# logo: Greg Townsend | 1980:oakland-raiders-logo
+# logo: Steve McMichael | 1980:chicago-bears-logo
+# logo: Jim Jeffcoat | 1980:dallas-cowboys-logo
+# logo: Al Baker | 1980:arizona-cardinals-logo
+# logo: Charles Mann | 1980:washington-redskins-logo
+# logo: Leonard Marshall | 1980:new-york-giants-logo
+# logo: Howie Long | 1980:oakland-raiders-logo
+# logo: Pat Swilling | 1980:new-orleans-saints-logo
+# logo: Simon Fletcher | 1980:denver-broncos-logo
+# logo: William Fuller | 1980:houston-oilers-logo
+# color: Bruce Smith | 1980:#00338D
+# color: Reggie White | 1980:#004C54
+# color: Kevin Greene | 1980:#003594
+# color: Julius Peppers | 1980:#0085CA
+# color: Chris Doleman | 1980:#4F2683
+# color: Michael Strahan | 1980:#0B2265
+# color: Jason Taylor | 1980:#008E97
+# color: Terrell Suggs | 1980:#241773
+# color: Von Miller | 1980:#FB4F14
+# color: DeMarcus Ware | 1980:#041E42
+# color: Richard Dent | 1980:#C83803
+# color: John Randle | 1980:#4F2683
+# color: Jared Allen | 1980:#4F2683
+# color: John Abraham | 1980:#A71930
+# color: Leslie O'Neal | 1980:#0080C6
+# color: Cameron Jordan | 1980:#9F8958
+# color: Rickey Jackson | 1980:#9F8958
+# color: Derrick Thomas | 1980:#E31837
+# color: Dwight Freeney | 1980:#002C5F
+# color: Simeon Rice | 1980:#D50A0A
+# color: Clyde Simmons | 1980:#004C54
+# color: Sean Jones | 1980:#4B92DB
+# color: Robert Mathis | 1980:#002C5F
+# color: Lawrence Taylor | 1980:#0B2265
+# color: Dexter Manley | 1980:#5A1414
+# color: Jacob Green | 1980:#002244
+# color: Mark Gastineau | 1980:#125740
+# color: Andre Tippett | 1980:#002244
+# color: Greg Townsend | 1980:#A5ACAF
+# color: Steve McMichael | 1980:#C83803
+# color: Jim Jeffcoat | 1980:#041E42
+# color: Al Baker | 1980:#97233F
+# color: Charles Mann | 1980:#5A1414
+# color: Leonard Marshall | 1980:#0B2265
+# color: Howie Long | 1980:#A5ACAF
+# color: Pat Swilling | 1980:#9F8958
+# color: Simon Fletcher | 1980:#FB4F14
+# color: William Fuller | 1980:#4B92DB
+Year,Lawrence Taylor,Dexter Manley,Reggie White,Richard Dent,Jacob Green,Mark Gastineau,Rickey Jackson,Andre Tippett,Greg Townsend,Steve McMichael,Jim Jeffcoat,Al Baker,Leonard Marshall,Howie Long,Charles Mann,Bruce Smith,Kevin Greene,Sean Jones,Chris Doleman,Pat Swilling,Clyde Simmons,Simon Fletcher,Leslie O'Neal,William Fuller,Derrick Thomas,Julius Peppers,Michael Strahan,Jason Taylor,Terrell Suggs,Von Miller,DeMarcus Ware,John Randle,Jared Allen,John Abraham,Cameron Jordan,Dwight Freeney,Simeon Rice,Robert Mathis
+1989,104,91,81,81,79,74,72.5,72.5,69.5,63,62.5,62.5,60,60,59.5,57.5,46.5,44.5,43.5,38,31.5,31.5,29,18,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+1991,121.5,97.5,110,103.5,97.5,74,90,84.5,95,76,70,65.5,75.5,69,76.5,78,62.5,67,61.5,66,52,56,51.5,41,43.5,0,0,0,0,0,0,10.5,0,0,0,0,0,0
+1993,132.5,97.5,137,124.5,97.5,74,115,100,107.5,92.5,86.5,65.5,81.5,84,82,106,85,88.5,88.5,83,76,85.5,80.5,59,66,0,1,0,0,0,0,34.5,0,0,0,0,0,0
+1995,132.5,97.5,157,126.5,97.5,74,128,100,109.5,95,97,65.5,83.5,84,83,126.5,108,108,104.5,99.5,93,97.5,105.5,81.5,85,0,13,0,0,0,0,58.5,0,0,0,0,0,0
+1997,132.5,97.5,176.5,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,154,133,113,127.5,105.5,109,97.5,122.5,97.5,107.5,0,32,5,0,0,0,85.5,0,0,0,0,17.5,0
+1999,132.5,97.5,192.5,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,171,160,113,150.5,107.5,121,97.5,132.5,100.5,126.5,0,52.5,16.5,0,0,0,106,0,0,0,0,44,0
+2001,132.5,97.5,198,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,186,160,113,150.5,107.5,121.5,97.5,132.5,100.5,126.5,0,84.5,39.5,0,0,0,125,0,17.5,0,0,62.5,0
+2003,132.5,97.5,198,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,200,160,113,150.5,107.5,121.5,97.5,132.5,100.5,126.5,19,114,71,12,0,0,137.5,0,33.5,0,24,93,3.5
+2005,132.5,97.5,198,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,200,160,113,150.5,107.5,121.5,97.5,132.5,100.5,126.5,40.5,129.5,92.5,30.5,0,8,137.5,20,53.5,0,51,119,25.5
+2007,132.5,97.5,198,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,200,160,113,150.5,107.5,121.5,97.5,132.5,100.5,126.5,56,141.5,117,45,0,33.5,137.5,43,67.5,0,60,122,42
+2009,132.5,97.5,198,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,200,160,113,150.5,107.5,121.5,97.5,132.5,100.5,126.5,81,141.5,127.5,57.5,0,64.5,137.5,72,89.5,0,84,122,63
+2011,132.5,97.5,198,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,200,160,113,150.5,107.5,121.5,97.5,132.5,100.5,126.5,100,141.5,139.5,82.5,11.5,99.5,137.5,105,112,1,102.5,122,83.5
+2013,132.5,97.5,198,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,200,160,113,150.5,107.5,121.5,97.5,132.5,100.5,126.5,118.5,141.5,139.5,94.5,35,117,137.5,128.5,133.5,21.5,108,122,111
+2015,132.5,97.5,198,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,200,160,113,150.5,107.5,121.5,97.5,132.5,100.5,126.5,136,141.5,139.5,106.5,60,134.5,137.5,136,133.5,39,119.5,122,118
+2017,132.5,97.5,198,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,200,160,113,150.5,107.5,121.5,97.5,132.5,100.5,126.5,154.5,141.5,139.5,125.5,83.5,138.5,137.5,136,133.5,59.5,125.5,122,123
+2019,132.5,97.5,198,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,200,160,113,150.5,107.5,121.5,97.5,132.5,100.5,126.5,159.5,141.5,139.5,139,106,138.5,137.5,136,133.5,87,125.5,122,123
+2021,132.5,97.5,198,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,200,160,113,150.5,107.5,121.5,97.5,132.5,100.5,126.5,159.5,141.5,139.5,139,115.5,138.5,137.5,136,133.5,107,125.5,122,123
+2023,132.5,97.5,198,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,200,160,113,150.5,107.5,121.5,97.5,132.5,100.5,126.5,159.5,141.5,139.5,139,123.5,138.5,137.5,136,133.5,117.5,125.5,122,123
+2025,132.5,97.5,198,137.5,97.5,74,128,100,109.5,95,102.5,65.5,83.5,84,83,200,160,113,150.5,107.5,121.5,97.5,132.5,100.5,126.5,159.5,141.5,139.5,139,138.5,138.5,137.5,136,133.5,132,125.5,122,123
