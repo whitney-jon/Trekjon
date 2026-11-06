@@ -21,6 +21,9 @@ PRESETS = {
     "heather": dict(icon="#FFFFFF", header="#4B3A6B", ink="#2B2340", accent="#D9A21B", paper_top="#F8F5EE", paper_bot="#EEE8DC",
                     rules="#CBC2DD", margin="#8E6BB3", title="#FFFFFF", tape="#B9A6D6", pill="#FFFDF8",
                     text="#2B2340"),
+    # Rink (NHL): navy header, cool ice-white sheet, navy ink, goal-line red accent
+    "rink": dict(icon="#FFFFFF", header="#0C2340", ink="#0C2340", accent="#C8102E", paper_top="#F5F8FB", paper_bot="#E6EDF3",
+                 rules="#BCD0E3", margin="#C8102E", title="#FFFFFF", tape="#9EBFDE", pill="#FFFFFF", text="#0C2340"),
     # Claret & Gold (managers): claret header, warm ivory sheet, near-black ink, old-gold accent
     "claret": dict(icon="#FFFFFF", header="#5E1A2E", ink="#24161B", accent="#C9A227", paper_top="#FAF6EE", paper_bot="#F0E8DA",
                    rules="#DCCBBE", margin="#C9A227", title="#FFFFFF", tape="#D9B8A4", pill="#FFFDF8",
@@ -347,7 +350,7 @@ def nb_update(i, frames):
         slot = int(np.clip(round((y + h / 2 - g.ROW0_YC) / g.ROW_H), 0, g.TOP_N + 1))
         p = bar_progress(i, n, slot) if n else 1.0
         tail = float(np.clip((p - 0.75) / 0.25, 0, 1))
-        tail_items = [a["val"]] + ([a["logo"]] if a.get("logo") is not None else [])
+        tail_items = [a["val"]] + ([a["logo"]] if a.get("logo") is not None else []) + ([a["rec"]] if a.get("rec") is not None else [])
         for q in tail_items:
             q.set_alpha((q.get_alpha() if q.get_alpha() is not None else 1.0) * tail)
             if tail < 0.05:

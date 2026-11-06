@@ -321,9 +321,17 @@ def build_timeline_paced(years, vals, total_frames, hold_end):
             t = j / n
             v = vals[k] + (vals[k + 1] - vals[k]) * t
             r = key_ranks[k] + (key_ranks[k + 1] - key_ranks[k]) * smooth(t)
-            frames.append((years[k + 1] if (t >= 0.5 or SEASON_LABELS) else years[k], v, r, None))
-    frames = [(years[0], vals[0], key_ranks[0], None)] + frames
-    frames += [(years[-1], vals[-1], key_ranks[-1], None)] * hold_end
+            rec = None
+            if RECORD["L"] is not None:
+                RL, RT = RECORD["L"], RECORD["T"]
+                rec = (RL[k] + (RL[k + 1] - RL[k]) * t, None if RT is None else RT[k] + (RT[k + 1] - RT[k]) * t)
+            frames.append((years[k + 1] if (t >= 0.5 or SEASON_LABELS) else years[k], v, r, None, rec))
+    rec0 = recL = None
+    if RECORD["L"] is not None:
+        rec0 = (RECORD["L"][0], None if RECORD["T"] is None else RECORD["T"][0])
+        recL = (RECORD["L"][-1], None if RECORD["T"] is None else RECORD["T"][-1])
+    frames = [(years[0], vals[0], key_ranks[0], None, rec0)] + frames
+    frames += [(years[-1], vals[-1], key_ranks[-1], None, recL)] * hold_end
     return frames
 
 
@@ -396,12 +404,27 @@ CLUB_COLORS = {
     "falkirk": "#002F6C", "clyde": "#FFFFFF", "stirling-albion": "#D50032", "ayr-united": "#F2F2F2",
     "partick-thistle": ("stripes", "#C8102E", "#FFD200"), "raith-rovers": "#1F2F6B", "morton": ("hoops", "#0C3C8C", "#FFFFFF"),
     "st-johnstone": "#0055A5",
+    # NHL (primary colours; a few switched to a second team colour so neighbours differ)
+    "anaheim-ducks": "#F47A38", "arizona-coyotes": "#8C2633", "boston-bruins": "#FFB81C", "buffalo-sabres": "#003087",
+    "calgary-flames": "#C8102E", "carolina-hurricanes": "#CC0000", "chicago-blackhawks": "#CF0A2C", "colorado-avalanche": "#6F263D",
+    "columbus-blue-jackets": "#002654", "dallas-stars": "#006847", "detroit-red-wings": "#CE1126", "edmonton-oilers": "#FF4C00",
+    "florida-panthers": "#C8102E", "los-angeles-kings": "#111111", "minnesota-wild": "#154734", "montreal-canadiens": "#AF1E2D",
+    "nashville-predators": "#041E42", "new-jersey-devils": "#CE1126", "new-york-islanders": "#00539B", "new-york-rangers": "#0038A8",
+    "ottawa-senators": "#C52032", "philadelphia-flyers": "#F74902", "pittsburgh-penguins": "#1A1A1A", "san-jose-sharks": "#006D75",
+    "seattle-kraken": "#001628", "st-louis-blues": "#002F87", "tampa-bay-lightning": "#002868", "toronto-maple-leafs": "#00205B",
+    "utah-mammoth": "#6CACE4", "vancouver-canucks": "#00843D", "vegas-golden-knights": "#B4975A", "washington-capitals": "#041E42",
+    "winnipeg-jets": "#041E42",
 }
 
 
 LOGO_ALIASES = {"man utd": "manchester-united", "man united": "manchester-united", "man city": "manchester-city",
                 "spurs": "tottenham-hotspur", "tottenham": "tottenham-hotspur", "inter": "inter-milan", "psg": "paris-saint-germain",
                 "milan": "ac-milan", "atletico": "atletico-madrid", "hearts": "heart-of-midlothian"}
+
+
+def rec_sub(l, t=None, dgt=None):
+    s_ = f"L {int(round(l)):,}" + (f"  \u00b7  T {int(round(t)):,}" if t is not None else "")
+    return "".join(dgt if ch.isdigit() else ch for ch in s_) if dgt else s_
 
 
 def logo_slug(name):
@@ -546,6 +569,10 @@ def make_scene(names, codes, font, flag_dir, th, title_lines, icon_path=None, ma
         probe = ax.text(0, 0, ptxt, fontproperties=F, fontsize=px(VALUE_PX))
         val_w = max(val_w, probe.get_window_extent(renderer).width)
         probe.remove()
+        if RECORD["L"] is not None:
+            probe = ax.text(0, 0, rec_sub(RECORD["L"].max(), None if RECORD["T"] is None else RECORD["T"].max(), dgt), fontproperties=F, fontsize=px(VALUE_PX * REC_SUB))
+            val_w = max(val_w, probe.get_window_extent(renderer).width)
+            probe.remove()
     mvp_w = 0
     if TROPHY and TROPHY_ICONS:
         n_max = max((len(cs) for t_ in TROPHY.values() for cs in t_.values()), default=1) if TROPHY_MODE["group"] else 1
@@ -643,6 +670,8 @@ def make_scene(names, codes, font, flag_dir, th, title_lines, icon_path=None, ma
         val = ax.text(0, 0, "", color=th["text"], fontproperties=F, fontsize=px(VALUE_PX), ha="left", va="center")
         val.set_path_effects(shadow)
         rec = None
+        if RECORD["L"] is not None:
+            rec = ax.text(0, 0, "", color=th["text"], fontproperties=F, fontsize=px(VALUE_PX * REC_SUB), ha="left", va="center")
         for p in glow + [bar, chip, pill]:
             ax.add_patch(p)
         if stripe is not None:
@@ -741,7 +770,7 @@ def set_period(a, year):
 
 
 def row_parts(a):
-    parts = [a["bar"], a["pill"], a["pill_t"], a["val"]]
+    parts = [a["bar"], a["pill"], a["pill_t"], a["val"]] + ([a["rec"]] if a.get("rec") is not None else [])
     if a.get("logo") is not None:
         parts += [q for q in (a["disc"], a["logo"]) if q is not None]
     if a["flag"] is not None:
@@ -756,6 +785,7 @@ GROW = {"lo": 1.0, "hi": 2.0}
 
 def draw_frame(year_txt, leader, art, frame):
     label, v, r = frame[:3]
+    RECORD["rows"] = frame[4] if len(frame) > 4 else None
     txt_ = YEAR_LABELS.get(label, str(label))
     year_txt.set_text(txt_)
     year_txt.set_fontsize(px(YEAR_PX * min(1.0, max(0.42, 4.6 / max(len(txt_), 1)))))
@@ -860,7 +890,11 @@ def draw_frame(year_txt, leader, art, frame):
         a["pill"].set_bounds(BAR_X0 - PILL_GAP - a["pw"], yc - PILL_H / 2, a["pw"], PILL_H)
         a["pill_t"].set_position((BAR_X0 - PILL_GAP - PILL_PAD, yc + 2))
         a["val"].set_position((BAR_X0 + w + VALUE_GAP, yc + 2))
-        a["val"].set_text(f"{max(int(round(v[i])), 0)}")
+        a["val"].set_text(f"{max(int(round(v[i])), 0):,}")
+        if RECORD["rows"] is not None and a.get("rec") is not None:
+            a["val"].set_position((BAR_X0 + w + VALUE_GAP, yc - 13))
+            a["rec"].set_position((BAR_X0 + w + VALUE_GAP + 2, yc + 30))
+            a["rec"].set_text(rec_sub(RECORD["rows"][0][i], None if RECORD["rows"][1] is None else RECORD["rows"][1][i]))
         for q in parts:
             q.set_alpha(alpha)
         if a.get("logo_short") and a.get("logo") is not None:
@@ -1171,7 +1205,7 @@ def opt(name):
 def main():
     global FRAMES_PER_YEAR, SEASON_LABELS, TOP_N, ROW_H, BAR_H, ROW0_YC, LAST_YC
     SEASON_LABELS = "--season-labels" in sys.argv
-    names_ = ("--font", "--flags", "--topic", "--title", "--theme", "--icon", "--icons-dir", "--fpy", "--seconds", "--logos", "--question", "--trophy-icons")
+    names_ = ("--font", "--flags", "--topic", "--title", "--theme", "--icon", "--icons-dir", "--fpy", "--seconds", "--logos", "--question", "--trophy-icons", "--record", "--record-ties")
     o = {n: opt(n) for n in names_}
     skip = {v for v in o.values() if v}
     args = [a for a in sys.argv[1:] if not a.startswith("--") and a not in skip]
@@ -1195,6 +1229,14 @@ def main():
             print("LOGOS MISSING:", ", ".join(sorted(set(no_logo))) if no_logo else "none")
         sys.exit(1 if (missing or no_logo) else 0)
     font = find_font(o["--font"])
+    if o["--record"]:   # losses (and ties) CSVs with the same columns/years as the main (wins) CSV
+        def _rd2(f):
+            lines_ = open(f, encoding="utf-8").read().splitlines()
+            n_ = next(i for i, l in enumerate(lines_) if not l.startswith("#"))
+            return pd.read_csv(f, skiprows=n_)
+        RECORD["L"] = _rd2(o["--record"]).iloc[:, 1:].to_numpy(float)
+        if o["--record-ties"]:
+            RECORD["T"] = _rd2(o["--record-ties"]).iloc[:, 1:].to_numpy(float)
     if o["--trophy-icons"] and TROPHY:
         cache_ = {}
         for c_, cands in TROPHY_FILES.items():
