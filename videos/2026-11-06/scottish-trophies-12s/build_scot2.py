@@ -5,7 +5,8 @@ from lower import T2, T3, T4
 from collections import Counter
 LC_CAL = {2017: 2016, 2018: 2017, 2019: 2018, 2020: 2019, 2022: 2021, 2024: 2023, 2025: 2024, 2026: 2025}
 wins = [((LC_CAL.get(y, y) if t == 'C' else y), {'Greenock Morton': 'Morton'}.get(c, c), t) for y, c, t in WINS]
-for s in (T2, T3, T4):
+import os
+for s in (() if os.environ.get('MAJOR') else (T2, T3, T4)):
     for it in s.split('|'):
         y, cs = it.split(' ', 1)
         for c in cs.split(';'):

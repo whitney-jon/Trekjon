@@ -797,6 +797,8 @@ def draw_frame(year_txt, leader, art, frame):
             q.set_visible(False)
         if a.get("stripe") is not None:
             a["stripe"].set_visible(False)
+        if a.get("tro_im") is not None:
+            a["tro_im"].set_visible(False)        # hidden unless the pop code below shows it (no frozen icons)
         if not visible:
             continue
         for q in parts:
