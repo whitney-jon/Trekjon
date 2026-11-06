@@ -158,7 +158,7 @@ TROPHY_FILES = {"L": ["league"], "F": ["fa-cup"], "C": ["league-cup"], "S": ["co
                 "W": ["uefa-cup", "european-cup"], "O": ["uefa-cup", "european-cup"],
                 "P": ["super-cup", "european-cup"], "I": ["club-world-cup", "super-cup", "european-cup"],
                 "G": ["golden-boot"], "B": ["ballon-dor"]}
-TROPHY_LEGEND = [("L", "League"), ("F", os.environ.get("CUP_LABEL", "FA Cup")), ("C", "League Cup"), ("S", "Shield"),
+TROPHY_LEGEND = [("L", "League"), ("F", os.environ.get("CUP_LABEL", "FA Cup")), ("C", "League Cup"), ("S", os.environ.get("SHIELD_LABEL", "Shield")),
                  ("E", os.environ.get("EUROPE_LABEL", "Europe")), ("U", "Europa"), ("I", "World"), ("G", "Golden Boot"), ("B", "Ballon d'Or")]
 TROPHY_MODE = {"group": False}
 STARS = {}
@@ -393,6 +393,9 @@ CLUB_COLORS = {
     "rangers": "#1B458F", "aberdeen": "#C8102E", "heart-of-midlothian": "#7A1F35", "hibernian": "#00703C",
     "queens-park": ("hoops", "#111111", "#FFFFFF"), "dundee": "#1C2D5A", "dundee-united": "#F47920",
     "kilmarnock": ("stripes", "#1D4C9E", "#FFFFFF"), "st-mirren": ("stripes", "#111111", "#FFFFFF"), "motherwell": "#F5A800",
+    "falkirk": "#002F6C", "clyde": "#FFFFFF", "stirling-albion": "#D50032", "ayr-united": "#F2F2F2",
+    "partick-thistle": ("stripes", "#C8102E", "#FFD200"), "raith-rovers": "#1F2F6B", "morton": ("hoops", "#0C3C8C", "#FFFFFF"),
+    "st-johnstone": "#0055A5",
 }
 
 
@@ -868,12 +871,14 @@ def draw_frame(year_txt, leader, art, frame):
                 a["tro_seq"] = seq
             yrs = sorted(tr)
             if not seq and VALS_AT:
+                y_first = min(y_ for (n_, y_) in VALS_AT if n_ == a["final_name"])
+                run_ = VALS_AT[(a["final_name"], y_first)]       # count at the first data point, then add trophies in order
                 for y_ in yrs:
-                    v0 = VALS_AT.get((a["final_name"], y_ - 1))
-                    if v0 is None:
+                    if y_ <= y_first:
                         continue
                     for j, c_ in enumerate(tr[y_]):
-                        seq.append((v0 + j + 0.5, c_))
+                        seq.append((run_ + j + 0.5, c_))
+                    run_ += len(tr[y_])
             cur = None
             for th_, c_ in seq:
                 if v[i] >= th_ - 1e-6:
@@ -1202,7 +1207,7 @@ def main():
         LAST_YEAR["y"] = years[-1]
         for n_, row_ in zip(names, vals.T):
             for k_, y_ in enumerate(years):
-                VALS_AT[(n_, y_)] = float(row_[k_])   # duplicate year labels (zero row): the later row wins
+                VALS_AT.setdefault((n_, y_), float(row_[k_]))   # duplicate year labels: keep the first (start) row   # duplicate year labels (zero row): the later row wins
     topic = o["--topic"] or csv_topic or "football"
     theme_name = o["--theme"] or pick_theme(topic)
     th = THEMES[theme_name]
