@@ -3,11 +3,11 @@
 Style: **Hand-made Notebook – Claret & Gold** (new preset `NB_PRESET=claret`: claret header, warm ivory paper, near-black ink, old-gold accent), rendered with `handmade_notebook_style.py --seconds 45 --season-labels --stub-grey --logo-bare --trophy-icons`. Header icon: `icons/champions-league.png`, re-inked white. Trophy pops (re-inked claret): League (shield), Cup, Europe (Champions League and UEFA Super Cup), Europa (UEFA Cup/Europa League and Conference League), World (Club World Cup and Intercontinental Cup). Each bar shows the badge and colour of the club where that manager won his latest trophy.
 
 ## Description
-At the start of the 2000/01 season every manager starts on zero. Over the next 26 years, which manager has won the most trophies?
+On 1 January 2000 every manager starts on zero. Over the next 26 years, which manager has won the most trophies?
 
-This race counts the major trophies won by managers of clubs in Europe's main leagues since 2000/01: league titles, national cups, European trophies and world club titles. José Mourinho's Porto, Chelsea and Inter sides make him the early leader. Mircea Lucescu's Shakhtar Donetsk then take him to No. 1 in 2012/13. In 2017/18 Pep Guardiola goes top, and he finishes on 30, six clear of Carlo Ancelotti.
+This race counts the major trophies won by managers of clubs in Europe's main leagues since 1 January 2000: league titles, national cups, European trophies and world club titles. José Mourinho's Porto, Chelsea and Inter sides make him the early leader. Mircea Lucescu's Shakhtar Donetsk then take him to No. 1 in 2012/13. In 2017/18 Pep Guardiola goes top, and he finishes on 30, six clear of Carlo Ancelotti.
 
-For the European fan: this isn't just the big five. Lucescu, who died in April 2026, won 17 of his 20 trophies with Ukrainian clubs. Neil Lennon (Celtic) and Sergei Semak (Zenit) sit on 9 alongside Benítez, Zidane, Flick and Valverde.
+For the European fan: this isn't just the big five. Lucescu, who died in April 2026, won 17 of his 20 trophies with Ukrainian clubs. Neil Lennon (Celtic) and Sergei Semak (Zenit) sit on 9 alongside Benítez, Zidane, Flick, Valverde and Ottmar Hitzfeld.
 
 Key Highlights:
 Pep on Top: 30 trophies with Barcelona, Bayern and Manchester City, including three Champions Leagues.
@@ -29,11 +29,12 @@ Data Source: Wikipedia manager honours pages and season/final pages (2000/01 to 
 ## How it counts
 - **Trophies counted (major only, as you chose):** league titles, national cups, UEFA Champions League, UEFA Cup/Europa League, Conference League, UEFA Super Cup, and Intercontinental Cup/FIFA Club World Cup. Not counted: league cups, national super cups (Community Shield, Supercopa etc.) and national-team trophies.
 - **Leagues covered (main leagues + UEFA, as you chose):** England, Spain, Italy, Germany, France, Portugal, Netherlands, Belgium, Scotland, Turkey, Ukraine, Russia, Greece, Austria and Switzerland. Managers whose trophies came in other leagues aren't counted. For example, Qarabağ's Gurbanov has 17 in Azerbaijan.
+- **Start date (your rule: "since 2000" = from 1 January 2000):** trophies won from January 2000 count, so the end of 1999/00 is included (e.g. Ferguson's 1999/00 Premier League, Del Bosque's 2000 Champions League, Hitzfeld's 1999/00 double, Terim's 2000 Galatasaray treble). Trophies won in 1999 (e.g. the August 1999 UEFA Super Cup, the November 1999 Intercontinental Cup) don't. The first bar step is shown as 1999/00.
 - **Seasons:** a trophy counts in the season it belongs to, and August super cups open the new season. Calendar-year Russian leagues (to 2011) are placed in the season they finished in (e.g. Nov 2003 → 2003/04). 2026/27 so far = PSG's UEFA Super Cup (12 Aug 2026).
-- **Final ties:** Benítez, Zidane, Flick, Valverde, Lennon and Semak are all on 9. Only one of them fits in row 9, and the order among tied managers stays as it was the season before.
+- **Final ties:** Benítez, Zidane, Flick, Valverde, Lennon, Semak and Hitzfeld are all on 9 (Hitzfeld shows in row 9). Only one of them fits in row 9, and the order among tied managers stays as it was the season before.
 
 ### Final totals
-Guardiola 30 · Ancelotti 24 · Lucescu 20 · Luis Enrique 18 · Mourinho 17 · Allegri 11 · Ferguson 10 · Mancini 10 · Benítez, Zidane, Flick, Valverde, Lennon, Semak 9 · Klopp, Wenger, Emery, Tuchel, Rodgers, Gross, Gazzaev 8.
+Guardiola 30 · Ancelotti 24 · Lucescu 20 · Luis Enrique 18 · Mourinho 17 · Allegri 11 · Ferguson 11 · Mancini 10 · Benítez, Zidane, Flick, Valverde, Lennon, Semak, Hitzfeld 9 · Terim 8 · Klopp, Wenger, Emery, Tuchel, Rodgers, Gross, Gazzaev 8.
 
 ### Itemised (season end year)
 - Guardiola: Barça 09 L C CL, 10 USC W L, 11 L CL, 12 USC W C; Bayern 14 USC W L C, 15 L, 16 L C; Man City 18 L, 19 L C, 21 L, 22 L, 23 L C CL, 24 USC W L, 26 C.
